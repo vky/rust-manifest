@@ -1,0 +1,7898 @@
+[
+  {
+    "name": "rust",
+    "url": "https://github.com/mozilla",
+    "author": "mozilla",
+    "updated": "2013-12-20T04:06:35Z",
+    "forks": 749,
+    "stars": 3603
+  },
+  {
+    "name": "servo",
+    "url": "https://github.com/mozilla",
+    "author": "mozilla",
+    "updated": "2013-12-19T15:56:36Z",
+    "forks": 200,
+    "stars": 1333
+  },
+  {
+    "name": "rustboot",
+    "url": "https://github.com/charliesome",
+    "author": "charliesome",
+    "updated": "2013-12-18T08:08:09Z",
+    "forks": 36,
+    "stars": 360
+  },
+  {
+    "name": "sprocketnes",
+    "url": "https://github.com/pcwalton",
+    "author": "pcwalton",
+    "updated": "2013-12-13T16:10:56Z",
+    "forks": 6,
+    "stars": 239
+  },
+  {
+    "name": "q3",
+    "url": "https://github.com/jeaye",
+    "author": "jeaye",
+    "updated": "2013-12-12T22:52:07Z",
+    "forks": 11,
+    "stars": 224
+  },
+  {
+    "name": "zero.rs",
+    "url": "https://github.com/pcwalton",
+    "author": "pcwalton",
+    "updated": "2013-12-17T11:48:33Z",
+    "forks": 8,
+    "stars": 172
+  },
+  {
+    "name": "nphysics",
+    "url": "https://github.com/sebcrozet",
+    "author": "sebcrozet",
+    "updated": "2013-12-19T18:29:34Z",
+    "forks": 2,
+    "stars": 134
+  },
+  {
+    "name": "rust-http",
+    "url": "https://github.com/chris-morgan",
+    "author": "chris-morgan",
+    "updated": "2013-12-19T16:41:54Z",
+    "forks": 31,
+    "stars": 117
+  },
+  {
+    "name": "Boot2Rust",
+    "url": "https://github.com/eholk",
+    "author": "eholk",
+    "updated": "2013-12-17T11:48:23Z",
+    "forks": 4,
+    "stars": 100
+  },
+  {
+    "name": "rust-sdl",
+    "url": "https://github.com/brson",
+    "author": "brson",
+    "updated": "2013-12-19T09:32:38Z",
+    "forks": 37,
+    "stars": 73
+  },
+  {
+    "name": "rustic",
+    "url": "https://github.com/pcmattman",
+    "author": "pcmattman",
+    "updated": "2013-12-17T20:09:39Z",
+    "forks": 3,
+    "stars": 73
+  },
+  {
+    "name": "rust.ko",
+    "url": "https://github.com/tsgates",
+    "author": "tsgates",
+    "updated": "2013-12-19T17:08:58Z",
+    "forks": 2,
+    "stars": 71
+  },
+  {
+    "name": "rust-bindgen",
+    "url": "https://github.com/crabtw",
+    "author": "crabtw",
+    "updated": "2013-12-18T06:17:08Z",
+    "forks": 21,
+    "stars": 63
+  },
+  {
+    "name": "glfw-rs",
+    "url": "https://github.com/bjz",
+    "author": "bjz",
+    "updated": "2013-12-19T07:23:56Z",
+    "forks": 28,
+    "stars": 59
+  },
+  {
+    "name": "coreutils",
+    "url": "https://github.com/uutils",
+    "author": "uutils",
+    "updated": "2013-12-19T09:01:12Z",
+    "forks": 15,
+    "stars": 52
+  },
+  {
+    "name": "kiss3d",
+    "url": "https://github.com/sebcrozet",
+    "author": "sebcrozet",
+    "updated": "2013-12-19T19:12:23Z",
+    "forks": 5,
+    "stars": 50
+  },
+  {
+    "name": "mre",
+    "url": "https://github.com/erickt",
+    "author": "erickt",
+    "updated": "2013-12-18T21:36:49Z",
+    "forks": 4,
+    "stars": 48
+  },
+  {
+    "name": "lets-build-a-compiler",
+    "url": "https://github.com/cmr",
+    "author": "cmr",
+    "updated": "2013-12-20T04:30:50Z",
+    "forks": 0,
+    "stars": 47
+  },
+  {
+    "name": "simple-web-server",
+    "url": "https://github.com/schaars",
+    "author": "schaars",
+    "updated": "2013-12-19T14:23:43Z",
+    "forks": 6,
+    "stars": 45
+  },
+  {
+    "name": "rust-sfml",
+    "url": "https://github.com/JeremyLetang",
+    "author": "JeremyLetang",
+    "updated": "2013-12-19T19:25:33Z",
+    "forks": 7,
+    "stars": 41
+  },
+  {
+    "name": "angolmois-rust",
+    "url": "https://github.com/lifthrasiir",
+    "author": "lifthrasiir",
+    "updated": "2013-12-07T04:17:15Z",
+    "forks": 1,
+    "stars": 40
+  },
+  {
+    "name": "rust-zmq",
+    "url": "https://github.com/erickt",
+    "author": "erickt",
+    "updated": "2013-12-18T15:36:21Z",
+    "forks": 12,
+    "stars": 36
+  },
+  {
+    "name": "rust-core",
+    "url": "https://github.com/thestinger",
+    "author": "thestinger",
+    "updated": "2013-12-19T20:47:50Z",
+    "forks": 10,
+    "stars": 32
+  },
+  {
+    "name": "widmann",
+    "url": "https://github.com/skade",
+    "author": "skade",
+    "updated": "2013-12-19T15:10:44Z",
+    "forks": 1,
+    "stars": 31
+  },
+  {
+    "name": "rust-opengles",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-12-04T22:30:28Z",
+    "forks": 27,
+    "stars": 29
+  },
+  {
+    "name": "ncollide",
+    "url": "https://github.com/sebcrozet",
+    "author": "sebcrozet",
+    "updated": "2013-12-19T17:49:45Z",
+    "forks": 1,
+    "stars": 28
+  },
+  {
+    "name": "nalgebra",
+    "url": "https://github.com/sebcrozet",
+    "author": "sebcrozet",
+    "updated": "2013-12-19T04:30:56Z",
+    "forks": 2,
+    "stars": 27
+  },
+  {
+    "name": "rust-socket",
+    "url": "https://github.com/jdm",
+    "author": "jdm",
+    "updated": "2013-11-16T04:58:44Z",
+    "forks": 9,
+    "stars": 25
+  },
+  {
+    "name": "rust-cocoa",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-11-23T06:07:26Z",
+    "forks": 11,
+    "stars": 25
+  },
+  {
+    "name": "rustsqlite",
+    "url": "https://github.com/linuxfood",
+    "author": "linuxfood",
+    "updated": "2013-12-18T05:40:23Z",
+    "forks": 11,
+    "stars": 25
+  },
+  {
+    "name": "rustyhex",
+    "url": "https://github.com/dpc",
+    "author": "dpc",
+    "updated": "2013-11-18T23:06:04Z",
+    "forks": 3,
+    "stars": 22
+  },
+  {
+    "name": "gl-rs",
+    "url": "https://github.com/bjz",
+    "author": "bjz",
+    "updated": "2013-12-19T01:01:28Z",
+    "forks": 16,
+    "stars": 22
+  },
+  {
+    "name": "capnproto-rust",
+    "url": "https://github.com/dwrensha",
+    "author": "dwrensha",
+    "updated": "2013-12-20T00:13:09Z",
+    "forks": 2,
+    "stars": 22
+  },
+  {
+    "name": "rparse",
+    "url": "https://github.com/jesse99",
+    "author": "jesse99",
+    "updated": "2013-10-26T06:22:02Z",
+    "forks": 9,
+    "stars": 20
+  },
+  {
+    "name": "rwebserve",
+    "url": "https://github.com/jesse99",
+    "author": "jesse99",
+    "updated": "2013-10-12T06:08:08Z",
+    "forks": 3,
+    "stars": 20
+  },
+  {
+    "name": "fempeg",
+    "url": "https://github.com/pcwalton",
+    "author": "pcwalton",
+    "updated": "2013-10-10T09:16:30Z",
+    "forks": 3,
+    "stars": 19
+  },
+  {
+    "name": "mongo-rust-driver-prototype",
+    "url": "https://github.com/10gen-interns",
+    "author": "10gen-interns",
+    "updated": "2013-10-21T21:40:29Z",
+    "forks": 0,
+    "stars": 18
+  },
+  {
+    "name": "rust-postgres",
+    "url": "https://github.com/sfackler",
+    "author": "sfackler",
+    "updated": "2013-12-19T05:25:09Z",
+    "forks": 3,
+    "stars": 18
+  },
+  {
+    "name": "rust-mustache",
+    "url": "https://github.com/erickt",
+    "author": "erickt",
+    "updated": "2013-12-07T02:27:10Z",
+    "forks": 9,
+    "stars": 18
+  },
+  {
+    "name": "rust-protobuf",
+    "url": "https://github.com/stepancheg",
+    "author": "stepancheg",
+    "updated": "2013-12-18T20:19:49Z",
+    "forks": 5,
+    "stars": 17
+  },
+  {
+    "name": "rust-sdl2",
+    "url": "https://github.com/AngryLawyer",
+    "author": "AngryLawyer",
+    "updated": "2013-12-16T09:55:55Z",
+    "forks": 8,
+    "stars": 17
+  },
+  {
+    "name": "wxRust",
+    "url": "https://github.com/kenz-gelsoft",
+    "author": "kenz-gelsoft",
+    "updated": "2013-12-19T22:26:25Z",
+    "forks": 1,
+    "stars": 17
+  },
+  {
+    "name": "rustfind",
+    "url": "https://github.com/dobkeratops",
+    "author": "dobkeratops",
+    "updated": "2013-12-04T02:20:08Z",
+    "forks": 4,
+    "stars": 16
+  },
+  {
+    "name": "rust-bloom-filter",
+    "url": "https://github.com/jedisct1",
+    "author": "jedisct1",
+    "updated": "2013-12-10T00:30:07Z",
+    "forks": 1,
+    "stars": 16
+  },
+  {
+    "name": "android_device_samsung_infuse4g",
+    "url": "https://github.com/TeamRefuse",
+    "author": "TeamRefuse",
+    "updated": "2013-12-11T13:08:21Z",
+    "forks": 15,
+    "stars": 16
+  },
+  {
+    "name": "tcup",
+    "url": "https://github.com/eevee",
+    "author": "eevee",
+    "updated": "2013-12-16T00:11:37Z",
+    "forks": 0,
+    "stars": 16
+  },
+  {
+    "name": "shorai",
+    "url": "https://github.com/jmgrosen",
+    "author": "jmgrosen",
+    "updated": "2013-10-20T20:43:55Z",
+    "forks": 1,
+    "stars": 15
+  },
+  {
+    "name": "amulet",
+    "url": "https://github.com/eevee",
+    "author": "eevee",
+    "updated": "2013-12-04T22:44:18Z",
+    "forks": 2,
+    "stars": 15
+  },
+  {
+    "name": "android_vendor_htc_dream_sapphire",
+    "url": "https://github.com/CyanogenMod",
+    "author": "CyanogenMod",
+    "updated": "2013-11-04T16:43:15Z",
+    "forks": 6,
+    "stars": 15
+  },
+  {
+    "name": "rustymem",
+    "url": "https://github.com/williamw520",
+    "author": "williamw520",
+    "updated": "2013-11-11T12:46:34Z",
+    "forks": 0,
+    "stars": 15
+  },
+  {
+    "name": "rustray",
+    "url": "https://github.com/brson",
+    "author": "brson",
+    "updated": "2013-12-17T06:36:23Z",
+    "forks": 5,
+    "stars": 15
+  },
+  {
+    "name": "rust-encoding",
+    "url": "https://github.com/lifthrasiir",
+    "author": "lifthrasiir",
+    "updated": "2013-12-18T07:22:48Z",
+    "forks": 5,
+    "stars": 15
+  },
+  {
+    "name": "rust-for-real",
+    "url": "https://github.com/FlaPer87",
+    "author": "FlaPer87",
+    "updated": "2013-10-05T13:52:20Z",
+    "forks": 1,
+    "stars": 14
+  },
+  {
+    "name": "rust-opencl",
+    "url": "https://github.com/luqmana",
+    "author": "luqmana",
+    "updated": "2013-12-16T21:52:42Z",
+    "forks": 6,
+    "stars": 14
+  },
+  {
+    "name": "rust-malloc",
+    "url": "https://github.com/huonw",
+    "author": "huonw",
+    "updated": "2013-10-27T06:04:11Z",
+    "forks": 1,
+    "stars": 14
+  },
+  {
+    "name": "rust-pcre",
+    "url": "https://github.com/uasi",
+    "author": "uasi",
+    "updated": "2013-12-14T11:41:46Z",
+    "forks": 9,
+    "stars": 14
+  },
+  {
+    "name": "cm_device_rockchip_rk2918",
+    "url": "https://github.com/naobsd",
+    "author": "naobsd",
+    "updated": "2013-10-25T19:32:07Z",
+    "forks": 12,
+    "stars": 13
+  },
+  {
+    "name": "open.gl-tutorials",
+    "url": "https://github.com/bjz",
+    "author": "bjz",
+    "updated": "2013-11-18T23:04:42Z",
+    "forks": 6,
+    "stars": 13
+  },
+  {
+    "name": "openbox-config",
+    "url": "https://github.com/spyou",
+    "author": "spyou",
+    "updated": "2013-11-03T00:47:48Z",
+    "forks": 3,
+    "stars": 13
+  },
+  {
+    "name": "cgmath-rs",
+    "url": "https://github.com/bjz",
+    "author": "bjz",
+    "updated": "2013-12-18T02:20:32Z",
+    "forks": 10,
+    "stars": 13
+  },
+  {
+    "name": "rust-mongrel2",
+    "url": "https://github.com/erickt",
+    "author": "erickt",
+    "updated": "2013-10-22T21:39:22Z",
+    "forks": 5,
+    "stars": 12
+  },
+  {
+    "name": "rustcrypto",
+    "url": "https://github.com/elly",
+    "author": "elly",
+    "updated": "2013-11-11T17:26:29Z",
+    "forks": 7,
+    "stars": 12
+  },
+  {
+    "name": "Quasar",
+    "url": "https://github.com/LeoTestard",
+    "author": "LeoTestard",
+    "updated": "2013-12-08T22:14:42Z",
+    "forks": 0,
+    "stars": 12
+  },
+  {
+    "name": "rust-airhockey",
+    "url": "https://github.com/FrozenCow",
+    "author": "FrozenCow",
+    "updated": "2013-12-03T06:25:57Z",
+    "forks": 2,
+    "stars": 12
+  },
+  {
+    "name": "hydrox",
+    "url": "https://github.com/z0w0",
+    "author": "z0w0",
+    "updated": "2013-12-13T06:21:12Z",
+    "forks": 0,
+    "stars": 12
+  },
+  {
+    "name": "rust-glut",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-11-08T01:17:36Z",
+    "forks": 13,
+    "stars": 11
+  },
+  {
+    "name": "frscript",
+    "url": "https://github.com/tiffany352",
+    "author": "tiffany352",
+    "updated": "2013-11-27T12:29:15Z",
+    "forks": 0,
+    "stars": 11
+  },
+  {
+    "name": "speculate",
+    "url": "https://github.com/haxney",
+    "author": "haxney",
+    "updated": "2013-12-04T21:58:56Z",
+    "forks": 0,
+    "stars": 11
+  },
+  {
+    "name": "rust-nanomsg",
+    "url": "https://github.com/glycerine",
+    "author": "glycerine",
+    "updated": "2013-12-12T14:57:01Z",
+    "forks": 1,
+    "stars": 11
+  },
+  {
+    "name": "Xperia-2011-Official-Ramdisks",
+    "url": "https://github.com/DooMLoRD",
+    "author": "DooMLoRD",
+    "updated": "2013-10-13T16:04:51Z",
+    "forks": 7,
+    "stars": 11
+  },
+  {
+    "name": "rustdoc_ng",
+    "url": "https://github.com/cmr",
+    "author": "cmr",
+    "updated": "2013-09-18T01:37:21Z",
+    "forks": 5,
+    "stars": 11
+  },
+  {
+    "name": "rustled",
+    "url": "https://github.com/stevej",
+    "author": "stevej",
+    "updated": "2013-10-18T18:41:26Z",
+    "forks": 2,
+    "stars": 10
+  },
+  {
+    "name": "rust-ncurses",
+    "url": "https://github.com/drhodes",
+    "author": "drhodes",
+    "updated": "2013-11-08T18:17:20Z",
+    "forks": 3,
+    "stars": 10
+  },
+  {
+    "name": "rusp",
+    "url": "https://github.com/bjz",
+    "author": "bjz",
+    "updated": "2013-11-04T02:49:31Z",
+    "forks": 3,
+    "stars": 10
+  },
+  {
+    "name": "rusty-turtle",
+    "url": "https://github.com/cscott",
+    "author": "cscott",
+    "updated": "2013-11-20T17:58:44Z",
+    "forks": 1,
+    "stars": 10
+  },
+  {
+    "name": "rust-geom",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-11-20T21:30:50Z",
+    "forks": 11,
+    "stars": 10
+  },
+  {
+    "name": "rustle",
+    "url": "https://github.com/dbp",
+    "author": "dbp",
+    "updated": "2013-12-08T23:09:30Z",
+    "forks": 0,
+    "stars": 10
+  },
+  {
+    "name": "rust-layers",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-12-03T21:56:15Z",
+    "forks": 14,
+    "stars": 10
+  },
+  {
+    "name": "clio",
+    "url": "https://github.com/eevee",
+    "author": "eevee",
+    "updated": "2013-12-14T05:06:38Z",
+    "forks": 2,
+    "stars": 10
+  },
+  {
+    "name": "sodiumoxide",
+    "url": "https://github.com/dnaq",
+    "author": "dnaq",
+    "updated": "2013-12-16T16:38:15Z",
+    "forks": 0,
+    "stars": 10
+  },
+  {
+    "name": "ears",
+    "url": "https://github.com/JeremyLetang",
+    "author": "JeremyLetang",
+    "updated": "2013-12-19T16:25:51Z",
+    "forks": 1,
+    "stars": 10
+  },
+  {
+    "name": "rust-fuse",
+    "url": "https://github.com/zargony",
+    "author": "zargony",
+    "updated": "2013-12-19T13:58:28Z",
+    "forks": 1,
+    "stars": 10
+  },
+  {
+    "name": "rust-repl",
+    "url": "https://github.com/bleibig",
+    "author": "bleibig",
+    "updated": "2013-11-23T13:32:19Z",
+    "forks": 5,
+    "stars": 9
+  },
+  {
+    "name": "rust-mozjs",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-12-05T15:10:05Z",
+    "forks": 18,
+    "stars": 9
+  },
+  {
+    "name": "ProjectEulerRust",
+    "url": "https://github.com/gifnksm",
+    "author": "gifnksm",
+    "updated": "2013-12-16T13:10:10Z",
+    "forks": 0,
+    "stars": 9
+  },
+  {
+    "name": "SciRust",
+    "url": "https://github.com/eholk",
+    "author": "eholk",
+    "updated": "2013-12-17T00:22:16Z",
+    "forks": 2,
+    "stars": 9
+  },
+  {
+    "name": "rust-tnetstring",
+    "url": "https://github.com/erickt",
+    "author": "erickt",
+    "updated": "2013-12-18T16:45:50Z",
+    "forks": 3,
+    "stars": 9
+  },
+  {
+    "name": "rust-crypto",
+    "url": "https://github.com/DaGenix",
+    "author": "DaGenix",
+    "updated": "2013-12-19T18:34:44Z",
+    "forks": 1,
+    "stars": 9
+  },
+  {
+    "name": "rust_glfw",
+    "url": "https://github.com/alegalle",
+    "author": "alegalle",
+    "updated": "2013-11-03T12:53:43Z",
+    "forks": 4,
+    "stars": 8
+  },
+  {
+    "name": "rustlings",
+    "url": "https://github.com/smadhueagle",
+    "author": "smadhueagle",
+    "updated": "2013-10-26T18:21:16Z",
+    "forks": 0,
+    "stars": 8
+  },
+  {
+    "name": "rust-sandbox",
+    "url": "https://github.com/pcwalton",
+    "author": "pcwalton",
+    "updated": "2013-11-10T04:35:55Z",
+    "forks": 0,
+    "stars": 8
+  },
+  {
+    "name": "cm_device_telechips_tcc8902",
+    "url": "https://github.com/naobsd",
+    "author": "naobsd",
+    "updated": "2013-12-15T07:04:29Z",
+    "forks": 4,
+    "stars": 8
+  },
+  {
+    "name": "rust-leveldb",
+    "url": "https://github.com/lht",
+    "author": "lht",
+    "updated": "2013-12-14T13:33:02Z",
+    "forks": 5,
+    "stars": 8
+  },
+  {
+    "name": "GtkRust",
+    "url": "https://github.com/ktvoelker",
+    "author": "ktvoelker",
+    "updated": "2013-11-15T05:22:52Z",
+    "forks": 0,
+    "stars": 8
+  },
+  {
+    "name": "rray",
+    "url": "https://github.com/luqmana",
+    "author": "luqmana",
+    "updated": "2013-09-08T17:31:52Z",
+    "forks": 5,
+    "stars": 7
+  },
+  {
+    "name": "Fugumod-ramdisk-new",
+    "url": "https://github.com/Onecosmic",
+    "author": "Onecosmic",
+    "updated": "2013-10-14T00:37:17Z",
+    "forks": 4,
+    "stars": 7
+  },
+  {
+    "name": "card-trace",
+    "url": "https://github.com/huonw",
+    "author": "huonw",
+    "updated": "2013-11-24T21:11:02Z",
+    "forks": 0,
+    "stars": 7
+  },
+  {
+    "name": "RustyXML",
+    "url": "https://github.com/Florob",
+    "author": "Florob",
+    "updated": "2013-11-28T01:41:23Z",
+    "forks": 1,
+    "stars": 7
+  },
+  {
+    "name": "rustgl_4_2_core",
+    "url": "https://github.com/alegalle",
+    "author": "alegalle",
+    "updated": "2013-03-19T10:05:41Z",
+    "forks": 3,
+    "stars": 7
+  },
+  {
+    "name": "rust-postgres",
+    "url": "https://github.com/drhodes",
+    "author": "drhodes",
+    "updated": "2013-08-15T08:22:55Z",
+    "forks": 0,
+    "stars": 7
+  },
+  {
+    "name": "rust-xcb",
+    "url": "https://github.com/Aatch",
+    "author": "Aatch",
+    "updated": "2013-10-30T15:25:20Z",
+    "forks": 2,
+    "stars": 7
+  },
+  {
+    "name": "rust-elasticsearch",
+    "url": "https://github.com/erickt",
+    "author": "erickt",
+    "updated": "2013-10-22T00:18:35Z",
+    "forks": 1,
+    "stars": 7
+  },
+  {
+    "name": "RustActors",
+    "url": "https://github.com/MaikKlein",
+    "author": "MaikKlein",
+    "updated": "2013-10-08T10:44:34Z",
+    "forks": 1,
+    "stars": 7
+  },
+  {
+    "name": "apollo",
+    "url": "https://github.com/katis",
+    "author": "katis",
+    "updated": "2013-11-23T19:17:46Z",
+    "forks": 1,
+    "stars": 7
+  },
+  {
+    "name": "ncurses-rs",
+    "url": "https://github.com/jeaye",
+    "author": "jeaye",
+    "updated": "2013-12-09T22:36:48Z",
+    "forks": 1,
+    "stars": 7
+  },
+  {
+    "name": "rust-png",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-12-16T18:13:18Z",
+    "forks": 10,
+    "stars": 7
+  },
+  {
+    "name": "linearscan.rs",
+    "url": "https://github.com/indutny",
+    "author": "indutny",
+    "updated": "2013-09-10T17:26:05Z",
+    "forks": 0,
+    "stars": 6
+  },
+  {
+    "name": "rust-irc-client",
+    "url": "https://github.com/pcwalton",
+    "author": "pcwalton",
+    "updated": "2013-10-30T19:39:47Z",
+    "forks": 2,
+    "stars": 6
+  },
+  {
+    "name": "android_device_samsung_p7510",
+    "url": "https://github.com/pershoot",
+    "author": "pershoot",
+    "updated": "2013-11-06T17:31:03Z",
+    "forks": 2,
+    "stars": 6
+  },
+  {
+    "name": "rust-csv",
+    "url": "https://github.com/grahame",
+    "author": "grahame",
+    "updated": "2013-11-22T00:20:15Z",
+    "forks": 3,
+    "stars": 6
+  },
+  {
+    "name": "nrays",
+    "url": "https://github.com/sebcrozet",
+    "author": "sebcrozet",
+    "updated": "2013-12-02T09:35:47Z",
+    "forks": 0,
+    "stars": 6
+  },
+  {
+    "name": "My-thoughts-on-Rust",
+    "url": "https://github.com/cfurrow",
+    "author": "cfurrow",
+    "updated": "2013-11-30T02:26:46Z",
+    "forks": 1,
+    "stars": 6
+  },
+  {
+    "name": "SHA3ImplementedInsideofaRARfile",
+    "url": "https://github.com/zv",
+    "author": "zv",
+    "updated": "2013-12-06T07:53:51Z",
+    "forks": 1,
+    "stars": 6
+  },
+  {
+    "name": "cryptorust",
+    "url": "https://github.com/relistan",
+    "author": "relistan",
+    "updated": "2013-12-13T16:17:16Z",
+    "forks": 3,
+    "stars": 6
+  },
+  {
+    "name": "aheui-llvm",
+    "url": "https://github.com/klutzy",
+    "author": "klutzy",
+    "updated": "2013-12-06T00:42:34Z",
+    "forks": 0,
+    "stars": 6
+  },
+  {
+    "name": "rust-uuid",
+    "url": "https://github.com/erickt",
+    "author": "erickt",
+    "updated": "2013-12-06T11:54:47Z",
+    "forks": 2,
+    "stars": 6
+  },
+  {
+    "name": "RustGnuplot",
+    "url": "https://github.com/SiegeLord",
+    "author": "SiegeLord",
+    "updated": "2013-12-19T18:35:31Z",
+    "forks": 0,
+    "stars": 6
+  },
+  {
+    "name": "rustrepl",
+    "url": "https://github.com/dbp",
+    "author": "dbp",
+    "updated": "2013-07-03T16:17:35Z",
+    "forks": 0,
+    "stars": 6
+  },
+  {
+    "name": "epic4gtouch_initramfs_files",
+    "url": "https://github.com/koush",
+    "author": "koush",
+    "updated": "2013-04-27T06:05:40Z",
+    "forks": 5,
+    "stars": 6
+  },
+  {
+    "name": "rust-core-foundation",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-11-21T23:10:38Z",
+    "forks": 9,
+    "stars": 6
+  },
+  {
+    "name": "rust-toys",
+    "url": "https://github.com/tmmcguire",
+    "author": "tmmcguire",
+    "updated": "2013-10-13T20:39:20Z",
+    "forks": 1,
+    "stars": 6
+  },
+  {
+    "name": "rust-opengl-lab",
+    "url": "https://github.com/brianheylin",
+    "author": "brianheylin",
+    "updated": "2013-11-30T04:12:35Z",
+    "forks": 3,
+    "stars": 6
+  },
+  {
+    "name": "rust-msgpack",
+    "url": "https://github.com/mneumann",
+    "author": "mneumann",
+    "updated": "2013-12-07T15:16:57Z",
+    "forks": 4,
+    "stars": 6
+  },
+  {
+    "name": "d3cap",
+    "url": "https://github.com/jfager",
+    "author": "jfager",
+    "updated": "2013-12-10T04:01:19Z",
+    "forks": 1,
+    "stars": 6
+  },
+  {
+    "name": "rust-fontconfig",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-10-18T20:16:24Z",
+    "forks": 6,
+    "stars": 5
+  },
+  {
+    "name": "rust-fuse-mc-original",
+    "url": "https://github.com/MicahChalmer",
+    "author": "MicahChalmer",
+    "updated": "2013-10-13T23:42:46Z",
+    "forks": 0,
+    "stars": 5
+  },
+  {
+    "name": "rust-ide",
+    "url": "https://github.com/stepancheg",
+    "author": "stepancheg",
+    "updated": "2013-11-17T16:14:56Z",
+    "forks": 0,
+    "stars": 5
+  },
+  {
+    "name": "rree",
+    "url": "https://github.com/sanxiyn",
+    "author": "sanxiyn",
+    "updated": "2013-10-06T15:59:40Z",
+    "forks": 0,
+    "stars": 5
+  },
+  {
+    "name": "mpd-overlay",
+    "url": "https://github.com/musicpd",
+    "author": "musicpd",
+    "updated": "2013-12-15T11:04:25Z",
+    "forks": 2,
+    "stars": 5
+  },
+  {
+    "name": "wuxia",
+    "url": "https://github.com/Havvy",
+    "author": "Havvy",
+    "updated": "2013-05-05T20:12:46Z",
+    "forks": 0,
+    "stars": 5
+  },
+  {
+    "name": "shooter",
+    "url": "https://github.com/charansingh",
+    "author": "charansingh",
+    "updated": "2013-03-02T20:47:04Z",
+    "forks": 3,
+    "stars": 5
+  },
+  {
+    "name": "rust-http",
+    "url": "https://github.com/kulasama",
+    "author": "kulasama",
+    "updated": "2013-06-20T13:58:03Z",
+    "forks": 0,
+    "stars": 5
+  },
+  {
+    "name": "cm_device_telechips_tcc8803",
+    "url": "https://github.com/naobsd",
+    "author": "naobsd",
+    "updated": "2013-10-25T08:03:30Z",
+    "forks": 1,
+    "stars": 5
+  },
+  {
+    "name": "android_device_lge_revolution",
+    "url": "https://github.com/thecubed",
+    "author": "thecubed",
+    "updated": "2013-10-09T08:09:47Z",
+    "forks": 2,
+    "stars": 5
+  },
+  {
+    "name": "ICSramdisk",
+    "url": "https://github.com/Onecosmic",
+    "author": "Onecosmic",
+    "updated": "2013-10-07T20:36:09Z",
+    "forks": 5,
+    "stars": 5
+  },
+  {
+    "name": "rrdf",
+    "url": "https://github.com/jesse99",
+    "author": "jesse99",
+    "updated": "2013-10-11T17:01:56Z",
+    "forks": 0,
+    "stars": 5
+  },
+  {
+    "name": "rustenstein3D",
+    "url": "https://github.com/JeremyLetang",
+    "author": "JeremyLetang",
+    "updated": "2013-11-25T07:10:31Z",
+    "forks": 0,
+    "stars": 5
+  },
+  {
+    "name": "icfp",
+    "url": "https://github.com/emarhavilicfp",
+    "author": "emarhavilicfp",
+    "updated": "2013-11-24T14:04:18Z",
+    "forks": 0,
+    "stars": 5
+  },
+  {
+    "name": "qc.rs",
+    "url": "https://github.com/blake2-ppc",
+    "author": "blake2-ppc",
+    "updated": "2013-12-12T20:25:17Z",
+    "forks": 2,
+    "stars": 5
+  },
+  {
+    "name": "msgpack-rust",
+    "url": "https://github.com/omasanori",
+    "author": "omasanori",
+    "updated": "2013-12-18T21:28:33Z",
+    "forks": 0,
+    "stars": 5
+  },
+  {
+    "name": "mcchat",
+    "url": "https://github.com/luqmana",
+    "author": "luqmana",
+    "updated": "2013-12-18T19:26:19Z",
+    "forks": 0,
+    "stars": 5
+  },
+  {
+    "name": "rust-ao",
+    "url": "https://github.com/pcwalton",
+    "author": "pcwalton",
+    "updated": "2013-06-20T13:59:18Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "runits",
+    "url": "https://github.com/jesse99",
+    "author": "jesse99",
+    "updated": "2013-01-12T06:17:37Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "stratosphere_recovery",
+    "url": "https://github.com/knightcrusader",
+    "author": "knightcrusader",
+    "updated": "2013-01-04T19:42:54Z",
+    "forks": 1,
+    "stars": 4
+  },
+  {
+    "name": "Samsung-EpicMTD-Initramfs-for-stock-Touchwiz",
+    "url": "https://github.com/noobnl",
+    "author": "noobnl",
+    "updated": "2013-02-07T14:17:42Z",
+    "forks": 1,
+    "stars": 4
+  },
+  {
+    "name": "rust-lua",
+    "url": "https://github.com/doy",
+    "author": "doy",
+    "updated": "2013-06-03T15:23:10Z",
+    "forks": 2,
+    "stars": 4
+  },
+  {
+    "name": "android_device_htc_7x30-recovery",
+    "url": "https://github.com/CyanogenMod",
+    "author": "CyanogenMod",
+    "updated": "2013-11-04T15:28:45Z",
+    "forks": 5,
+    "stars": 4
+  },
+  {
+    "name": "prismo",
+    "url": "https://github.com/lycus",
+    "author": "lycus",
+    "updated": "2013-10-20T03:29:36Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "rust-term",
+    "url": "https://github.com/doy",
+    "author": "doy",
+    "updated": "2013-10-20T19:41:28Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "rust-snappy",
+    "url": "https://github.com/thestinger",
+    "author": "thestinger",
+    "updated": "2013-11-28T15:40:30Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "rust_datetime",
+    "url": "https://github.com/tedhorst",
+    "author": "tedhorst",
+    "updated": "2013-11-27T18:30:04Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "samsung-initramfs-galaxytab",
+    "url": "https://github.com/koxudaxi",
+    "author": "koxudaxi",
+    "updated": "2013-09-29T03:06:29Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "chip-8.rs",
+    "url": "https://github.com/mikezaby",
+    "author": "mikezaby",
+    "updated": "2013-10-11T21:05:26Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "htc_device_pyramid",
+    "url": "https://github.com/stoneyjonez",
+    "author": "stoneyjonez",
+    "updated": "2013-12-02T05:23:40Z",
+    "forks": 5,
+    "stars": 4
+  },
+  {
+    "name": "rust-hyperloglog",
+    "url": "https://github.com/jedisct1",
+    "author": "jedisct1",
+    "updated": "2013-12-04T03:47:26Z",
+    "forks": 1,
+    "stars": 4
+  },
+  {
+    "name": "rust-re",
+    "url": "https://github.com/glennsl",
+    "author": "glennsl",
+    "updated": "2013-12-09T23:37:57Z",
+    "forks": 1,
+    "stars": 4
+  },
+  {
+    "name": "rust-apl",
+    "url": "https://github.com/AngryLawyer",
+    "author": "AngryLawyer",
+    "updated": "2013-12-14T11:25:55Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "rust-epoll",
+    "url": "https://github.com/bnoordhuis",
+    "author": "bnoordhuis",
+    "updated": "2013-12-15T17:09:34Z",
+    "forks": 1,
+    "stars": 4
+  },
+  {
+    "name": "evict",
+    "url": "https://github.com/brandonson",
+    "author": "brandonson",
+    "updated": "2013-12-20T04:10:38Z",
+    "forks": 4,
+    "stars": 4
+  },
+  {
+    "name": "icfpc12",
+    "url": "https://github.com/jld",
+    "author": "jld",
+    "updated": "2013-02-14T13:00:12Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "rusty",
+    "url": "https://github.com/tav",
+    "author": "tav",
+    "updated": "2013-09-09T19:06:12Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "Android",
+    "url": "https://github.com/idor",
+    "author": "idor",
+    "updated": "2013-07-04T07:52:11Z",
+    "forks": 3,
+    "stars": 4
+  },
+  {
+    "name": "android_device_samsung_galaxytabc",
+    "url": "https://github.com/cm7sgt",
+    "author": "cm7sgt",
+    "updated": "2013-01-04T01:16:11Z",
+    "forks": 2,
+    "stars": 4
+  },
+  {
+    "name": "MIUI-U8800-Port-Script",
+    "url": "https://github.com/stockwell",
+    "author": "stockwell",
+    "updated": "2013-05-13T20:46:57Z",
+    "forks": 4,
+    "stars": 4
+  },
+  {
+    "name": "rust-iter",
+    "url": "https://github.com/nikomatsakis",
+    "author": "nikomatsakis",
+    "updated": "2013-04-30T12:04:56Z",
+    "forks": 2,
+    "stars": 4
+  },
+  {
+    "name": "cm_device_telechips_tcc8902gb",
+    "url": "https://github.com/naobsd",
+    "author": "naobsd",
+    "updated": "2013-02-02T15:06:38Z",
+    "forks": 3,
+    "stars": 4
+  },
+  {
+    "name": "catalyst-traitfor-controller-sendfile",
+    "url": "https://github.com/davewood",
+    "author": "davewood",
+    "updated": "2012-12-14T19:05:09Z",
+    "forks": 2,
+    "stars": 4
+  },
+  {
+    "name": "rust-gc-talk",
+    "url": "https://github.com/elliottslaughter",
+    "author": "elliottslaughter",
+    "updated": "2013-10-28T04:57:23Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "rust-sdl-tutorials",
+    "url": "https://github.com/AngryLawyer",
+    "author": "AngryLawyer",
+    "updated": "2013-10-23T05:18:42Z",
+    "forks": 1,
+    "stars": 4
+  },
+  {
+    "name": "android_vendor_lge_thunderg",
+    "url": "https://github.com/andy572",
+    "author": "andy572",
+    "updated": "2013-09-27T06:54:53Z",
+    "forks": 2,
+    "stars": 4
+  },
+  {
+    "name": "aries_initram",
+    "url": "https://github.com/Onecosmic",
+    "author": "Onecosmic",
+    "updated": "2013-10-27T09:49:12Z",
+    "forks": 1,
+    "stars": 4
+  },
+  {
+    "name": "aurora.rs",
+    "url": "https://github.com/jensnockert",
+    "author": "jensnockert",
+    "updated": "2013-10-26T16:18:57Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "defcon20",
+    "url": "https://github.com/jld",
+    "author": "jld",
+    "updated": "2013-11-10T23:17:58Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "rust-css",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-11-21T23:10:46Z",
+    "forks": 18,
+    "stars": 4
+  },
+  {
+    "name": "rust-approx",
+    "url": "https://github.com/polyfractal",
+    "author": "polyfractal",
+    "updated": "2013-10-06T20:18:50Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "rust-dcpu16",
+    "url": "https://github.com/Jonanin",
+    "author": "Jonanin",
+    "updated": "2013-10-07T07:01:08Z",
+    "forks": 3,
+    "stars": 4
+  },
+  {
+    "name": "rust-url",
+    "url": "https://github.com/erickt",
+    "author": "erickt",
+    "updated": "2013-10-04T01:11:54Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "git2-rs",
+    "url": "https://github.com/kimhyunkang",
+    "author": "kimhyunkang",
+    "updated": "2013-10-18T05:03:07Z",
+    "forks": 2,
+    "stars": 4
+  },
+  {
+    "name": "rustpcre",
+    "url": "https://github.com/elly",
+    "author": "elly",
+    "updated": "2013-10-13T02:09:15Z",
+    "forks": 2,
+    "stars": 4
+  },
+  {
+    "name": "bloomfilter-rust",
+    "url": "https://github.com/cavedweller",
+    "author": "cavedweller",
+    "updated": "2013-10-18T11:43:04Z",
+    "forks": 2,
+    "stars": 4
+  },
+  {
+    "name": "rust-docs",
+    "url": "https://github.com/Havvy",
+    "author": "Havvy",
+    "updated": "2013-11-26T12:52:14Z",
+    "forks": 1,
+    "stars": 4
+  },
+  {
+    "name": "Rusty",
+    "url": "https://github.com/Boreeas",
+    "author": "Boreeas",
+    "updated": "2013-09-17T08:31:11Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "rustchip",
+    "url": "https://github.com/enticeing",
+    "author": "enticeing",
+    "updated": "2013-06-18T03:38:32Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "UtfRedirect",
+    "url": "https://github.com/neosmart",
+    "author": "neosmart",
+    "updated": "2013-12-01T06:17:01Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "rust-usb",
+    "url": "https://github.com/kevinmehall",
+    "author": "kevinmehall",
+    "updated": "2013-12-03T03:34:39Z",
+    "forks": 1,
+    "stars": 4
+  },
+  {
+    "name": "rustcheck",
+    "url": "https://github.com/mcandre",
+    "author": "mcandre",
+    "updated": "2013-12-06T03:51:26Z",
+    "forks": 2,
+    "stars": 4
+  },
+  {
+    "name": "rust-termbox",
+    "url": "https://github.com/apribadi",
+    "author": "apribadi",
+    "updated": "2013-12-09T22:20:27Z",
+    "forks": 2,
+    "stars": 4
+  },
+  {
+    "name": "rustbot",
+    "url": "https://github.com/kzzch",
+    "author": "kzzch",
+    "updated": "2013-12-12T05:00:21Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "rust-peg",
+    "url": "https://github.com/kevinmehall",
+    "author": "kevinmehall",
+    "updated": "2013-12-11T03:39:31Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "UORustLibs",
+    "url": "https://github.com/AngryLawyer",
+    "author": "AngryLawyer",
+    "updated": "2013-07-20T18:30:06Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "RustAllegro",
+    "url": "https://github.com/SiegeLord",
+    "author": "SiegeLord",
+    "updated": "2013-12-19T18:37:22Z",
+    "forks": 1,
+    "stars": 4
+  },
+  {
+    "name": "regex-rust",
+    "url": "https://github.com/ferristseng",
+    "author": "ferristseng",
+    "updated": "2013-12-20T02:29:24Z",
+    "forks": 0,
+    "stars": 4
+  },
+  {
+    "name": "rconfig",
+    "url": "https://github.com/JeremyChase",
+    "author": "JeremyChase",
+    "updated": "2013-07-30T14:20:15Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "shootout-rust",
+    "url": "https://github.com/khernyo",
+    "author": "khernyo",
+    "updated": "2013-08-10T02:55:21Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "treadmilldb",
+    "url": "https://github.com/donpdonp",
+    "author": "donpdonp",
+    "updated": "2013-01-09T12:15:08Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "limerick",
+    "url": "https://github.com/grahame",
+    "author": "grahame",
+    "updated": "2013-07-24T23:23:43Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "rusty-euler",
+    "url": "https://github.com/TWinsnes",
+    "author": "TWinsnes",
+    "updated": "2013-06-20T14:10:53Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "project--procmail-lib",
+    "url": "https://github.com/jaalto",
+    "author": "jaalto",
+    "updated": "2013-05-15T09:37:50Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "simplify-rs",
+    "url": "https://github.com/calvinmetcalf",
+    "author": "calvinmetcalf",
+    "updated": "2013-10-31T03:11:22Z",
+    "forks": 1,
+    "stars": 3
+  },
+  {
+    "name": "openal-rs",
+    "url": "https://github.com/bjz",
+    "author": "bjz",
+    "updated": "2013-11-02T04:08:53Z",
+    "forks": 3,
+    "stars": 3
+  },
+  {
+    "name": "htc-rider-aosp-ramdisk",
+    "url": "https://github.com/gunine",
+    "author": "gunine",
+    "updated": "2013-11-07T12:14:58Z",
+    "forks": 1,
+    "stars": 3
+  },
+  {
+    "name": "cm_device_rockchip_rk2918",
+    "url": "https://github.com/birdiebnl",
+    "author": "birdiebnl",
+    "updated": "2013-11-18T16:34:12Z",
+    "forks": 2,
+    "stars": 3
+  },
+  {
+    "name": "rust-magic",
+    "url": "https://github.com/thestinger",
+    "author": "thestinger",
+    "updated": "2013-11-21T10:19:51Z",
+    "forks": 1,
+    "stars": 3
+  },
+  {
+    "name": "rust-errno",
+    "url": "https://github.com/bnoordhuis",
+    "author": "bnoordhuis",
+    "updated": "2013-12-01T18:17:29Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "openal-rs",
+    "url": "https://github.com/bjz",
+    "author": "bjz",
+    "updated": "2013-11-02T04:08:53Z",
+    "forks": 3,
+    "stars": 3
+  },
+  {
+    "name": "simplify-rs",
+    "url": "https://github.com/calvinmetcalf",
+    "author": "calvinmetcalf",
+    "updated": "2013-10-31T03:11:22Z",
+    "forks": 1,
+    "stars": 3
+  },
+  {
+    "name": "rust-sci",
+    "url": "https://github.com/euphoris",
+    "author": "euphoris",
+    "updated": "2013-10-28T09:28:39Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "signal",
+    "url": "https://github.com/14427",
+    "author": "14427",
+    "updated": "2013-10-14T07:04:45Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "rust_sexpr",
+    "url": "https://github.com/darkf",
+    "author": "darkf",
+    "updated": "2013-10-19T03:02:56Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "rust-clang",
+    "url": "https://github.com/erickt",
+    "author": "erickt",
+    "updated": "2013-10-18T04:51:36Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "rust-llvm",
+    "url": "https://github.com/brson",
+    "author": "brson",
+    "updated": "2013-12-07T17:16:22Z",
+    "forks": 1,
+    "stars": 3
+  },
+  {
+    "name": "rust-disruptor",
+    "url": "https://github.com/sruggier",
+    "author": "sruggier",
+    "updated": "2013-12-02T04:31:00Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "rust-gmp",
+    "url": "https://github.com/thestinger",
+    "author": "thestinger",
+    "updated": "2013-12-05T23:10:59Z",
+    "forks": 2,
+    "stars": 3
+  },
+  {
+    "name": "rust-compress",
+    "url": "https://github.com/alexcrichton",
+    "author": "alexcrichton",
+    "updated": "2013-12-17T06:02:38Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "gumsh",
+    "url": "https://github.com/jfredett",
+    "author": "jfredett",
+    "updated": "2013-09-02T12:43:15Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "detourious-glassy",
+    "url": "https://github.com/lzoubek",
+    "author": "lzoubek",
+    "updated": "2013-03-13T20:40:53Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "makerom",
+    "url": "https://github.com/andyichr",
+    "author": "andyichr",
+    "updated": "2013-04-16T17:55:30Z",
+    "forks": 3,
+    "stars": 3
+  },
+  {
+    "name": "m180s-initramfs-stock",
+    "url": "https://github.com/lostpuppy",
+    "author": "lostpuppy",
+    "updated": "2013-09-10T04:08:00Z",
+    "forks": 1,
+    "stars": 3
+  },
+  {
+    "name": "bootimage_ramdisk_I9001",
+    "url": "https://github.com/manveru0",
+    "author": "manveru0",
+    "updated": "2013-01-04T14:06:32Z",
+    "forks": 2,
+    "stars": 3
+  },
+  {
+    "name": "dzil-base",
+    "url": "https://github.com/xenoterracide",
+    "author": "xenoterracide",
+    "updated": "2013-01-03T14:46:05Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "rust-cql",
+    "url": "https://github.com/yjh0502",
+    "author": "yjh0502",
+    "updated": "2013-10-26T07:33:40Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "bimap",
+    "url": "https://github.com/Havvy",
+    "author": "Havvy",
+    "updated": "2013-10-21T04:33:45Z",
+    "forks": 1,
+    "stars": 3
+  },
+  {
+    "name": "dablooms-rust",
+    "url": "https://github.com/gmcabrita",
+    "author": "gmcabrita",
+    "updated": "2013-10-21T22:29:37Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "rust-tls",
+    "url": "https://github.com/randombit",
+    "author": "randombit",
+    "updated": "2013-10-22T01:32:10Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "rustbot",
+    "url": "https://github.com/treeman",
+    "author": "treeman",
+    "updated": "2013-10-31T12:50:39Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "p5-common_android_ics_device_tree",
+    "url": "https://github.com/motley-git",
+    "author": "motley-git",
+    "updated": "2013-10-07T09:49:59Z",
+    "forks": 3,
+    "stars": 3
+  },
+  {
+    "name": "rhyme-harder-rust",
+    "url": "https://github.com/try-harder",
+    "author": "try-harder",
+    "updated": "2013-09-20T12:27:14Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "android_samsung_i927_initrd",
+    "url": "https://github.com/utkanos",
+    "author": "utkanos",
+    "updated": "2013-10-07T14:04:25Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "RustLex",
+    "url": "https://github.com/LeoTestard",
+    "author": "LeoTestard",
+    "updated": "2013-11-08T22:21:04Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "android_device_motorola_targa",
+    "url": "https://github.com/CM-Bionic",
+    "author": "CM-Bionic",
+    "updated": "2013-11-09T20:23:36Z",
+    "forks": 26,
+    "stars": 3
+  },
+  {
+    "name": "rustyjavazone",
+    "url": "https://github.com/reidarsollid",
+    "author": "reidarsollid",
+    "updated": "2013-10-14T16:36:32Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "htc-rider-aosp-device",
+    "url": "https://github.com/gunine",
+    "author": "gunine",
+    "updated": "2013-10-15T19:03:34Z",
+    "forks": 1,
+    "stars": 3
+  },
+  {
+    "name": "frog",
+    "url": "https://github.com/natal",
+    "author": "natal",
+    "updated": "2013-10-14T15:01:51Z",
+    "forks": 2,
+    "stars": 3
+  },
+  {
+    "name": "quickstart",
+    "url": "https://github.com/mercurate",
+    "author": "mercurate",
+    "updated": "2013-10-19T20:09:17Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "rust-echo-server",
+    "url": "https://github.com/uasi",
+    "author": "uasi",
+    "updated": "2013-10-18T17:34:18Z",
+    "forks": 1,
+    "stars": 3
+  },
+  {
+    "name": "rust-webencodings",
+    "url": "https://github.com/SimonSapin",
+    "author": "SimonSapin",
+    "updated": "2013-11-04T23:01:42Z",
+    "forks": 1,
+    "stars": 3
+  },
+  {
+    "name": "rust-expat",
+    "url": "https://github.com/marshray",
+    "author": "marshray",
+    "updated": "2013-11-04T17:20:01Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "rust-zlib",
+    "url": "https://github.com/seanmoon",
+    "author": "seanmoon",
+    "updated": "2013-11-07T16:17:31Z",
+    "forks": 2,
+    "stars": 3
+  },
+  {
+    "name": "rust-rfc4648",
+    "url": "https://github.com/tychosci",
+    "author": "tychosci",
+    "updated": "2013-11-12T06:57:43Z",
+    "forks": 1,
+    "stars": 3
+  },
+  {
+    "name": "rust-io-surface",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-11-16T01:12:05Z",
+    "forks": 7,
+    "stars": 3
+  },
+  {
+    "name": "rust-core-text",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-11-16T06:14:08Z",
+    "forks": 8,
+    "stars": 3
+  },
+  {
+    "name": "deris",
+    "url": "https://github.com/Seldaek",
+    "author": "Seldaek",
+    "updated": "2013-11-19T11:04:58Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "sdl2-tutorial-rust",
+    "url": "https://github.com/Kroisse",
+    "author": "Kroisse",
+    "updated": "2013-09-17T08:51:38Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "roft",
+    "url": "https://github.com/natal",
+    "author": "natal",
+    "updated": "2013-09-02T20:59:50Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "rustymvc",
+    "url": "https://github.com/Earlz",
+    "author": "Earlz",
+    "updated": "2013-12-07T02:27:04Z",
+    "forks": 1,
+    "stars": 3
+  },
+  {
+    "name": "cog",
+    "url": "https://github.com/psantacl",
+    "author": "psantacl",
+    "updated": "2013-12-11T01:11:54Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "initramfs_normal_GT-P6210",
+    "url": "https://github.com/garyd9",
+    "author": "garyd9",
+    "updated": "2013-12-15T23:08:50Z",
+    "forks": 2,
+    "stars": 3
+  },
+  {
+    "name": "rust-examples",
+    "url": "https://github.com/cmr",
+    "author": "cmr",
+    "updated": "2013-12-13T00:25:07Z",
+    "forks": 1,
+    "stars": 3
+  },
+  {
+    "name": "rust-sandbox",
+    "url": "https://github.com/rntz",
+    "author": "rntz",
+    "updated": "2013-12-13T05:14:37Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "strat_initramfs",
+    "url": "https://github.com/rhcp011235",
+    "author": "rhcp011235",
+    "updated": "2013-01-16T20:53:53Z",
+    "forks": 2,
+    "stars": 3
+  },
+  {
+    "name": "rustzlib",
+    "url": "https://github.com/elly",
+    "author": "elly",
+    "updated": "2013-12-08T20:29:15Z",
+    "forks": 2,
+    "stars": 3
+  },
+  {
+    "name": "cm_device_telechips_tcc8902rt",
+    "url": "https://github.com/naobsd",
+    "author": "naobsd",
+    "updated": "2013-12-08T15:22:16Z",
+    "forks": 2,
+    "stars": 3
+  },
+  {
+    "name": "rust-datetime",
+    "url": "https://github.com/drhodes",
+    "author": "drhodes",
+    "updated": "2013-12-18T12:37:50Z",
+    "forks": 0,
+    "stars": 3
+  },
+  {
+    "name": "flaky-data-structures",
+    "url": "https://github.com/pnathan",
+    "author": "pnathan",
+    "updated": "2013-07-23T22:36:23Z",
+    "forks": 1,
+    "stars": 2
+  },
+  {
+    "name": "rust-web",
+    "url": "https://github.com/boardwalk",
+    "author": "boardwalk",
+    "updated": "2013-06-20T13:53:30Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "device_samsung_vibrantmtd",
+    "url": "https://github.com/OMFGB",
+    "author": "OMFGB",
+    "updated": "2013-01-04T02:59:08Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "glitch",
+    "url": "https://github.com/uasi",
+    "author": "uasi",
+    "updated": "2013-06-03T13:15:42Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "loccr",
+    "url": "https://github.com/Jonanin",
+    "author": "Jonanin",
+    "updated": "2013-01-08T11:59:55Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "euler_rust",
+    "url": "https://github.com/masondesu",
+    "author": "masondesu",
+    "updated": "2013-06-20T13:45:10Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rust-tools",
+    "url": "https://github.com/killerswan",
+    "author": "killerswan",
+    "updated": "2013-04-06T06:39:04Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rust-sockets",
+    "url": "https://github.com/ttaubert",
+    "author": "ttaubert",
+    "updated": "2013-05-20T22:15:01Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rust-playground",
+    "url": "https://github.com/tomykaira",
+    "author": "tomykaira",
+    "updated": "2013-01-07T21:38:37Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "android_device_huawei_u8800-cm9",
+    "url": "https://github.com/jeeb",
+    "author": "jeeb",
+    "updated": "2013-03-12T01:52:28Z",
+    "forks": 2,
+    "stars": 2
+  },
+  {
+    "name": "cyanogenmod-tenderloin-initramfs",
+    "url": "https://github.com/bubby323",
+    "author": "bubby323",
+    "updated": "2013-03-27T16:23:06Z",
+    "forks": 1,
+    "stars": 2
+  },
+  {
+    "name": "rust-app-skelton",
+    "url": "https://github.com/koko1000ban",
+    "author": "koko1000ban",
+    "updated": "2013-01-08T08:15:38Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "terminalmap",
+    "url": "https://github.com/mcpherrinm",
+    "author": "mcpherrinm",
+    "updated": "2013-05-04T19:35:26Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "asm.rs",
+    "url": "https://github.com/indutny",
+    "author": "indutny",
+    "updated": "2013-07-03T14:55:15Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rust-deflate",
+    "url": "https://github.com/yjh0502",
+    "author": "yjh0502",
+    "updated": "2013-07-07T12:43:35Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "Wyre",
+    "url": "https://github.com/MaikKlein",
+    "author": "MaikKlein",
+    "updated": "2013-08-31T10:17:28Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rust-babysteps",
+    "url": "https://github.com/ashee",
+    "author": "ashee",
+    "updated": "2013-10-02T23:06:06Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rustopus",
+    "url": "https://github.com/krad-radio",
+    "author": "krad-radio",
+    "updated": "2013-10-03T02:47:18Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "k-shortest-paths",
+    "url": "https://github.com/koko1000ban",
+    "author": "koko1000ban",
+    "updated": "2013-09-26T02:20:38Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rust-asm-demo",
+    "url": "https://github.com/HOLYCOWBATMAN",
+    "author": "HOLYCOWBATMAN",
+    "updated": "2013-10-02T09:34:45Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rustmunk",
+    "url": "https://github.com/beoran",
+    "author": "beoran",
+    "updated": "2013-10-02T09:39:15Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "raytracer",
+    "url": "https://github.com/kylc",
+    "author": "kylc",
+    "updated": "2013-09-24T13:19:15Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "samsung_admire_ramdisk_stock",
+    "url": "https://github.com/Krylon360",
+    "author": "Krylon360",
+    "updated": "2013-09-27T20:31:56Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "isant",
+    "url": "https://github.com/Blub",
+    "author": "Blub",
+    "updated": "2013-10-09T11:10:06Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rust_curl",
+    "url": "https://github.com/MarkJr94",
+    "author": "MarkJr94",
+    "updated": "2013-10-10T07:20:14Z",
+    "forks": 2,
+    "stars": 2
+  },
+  {
+    "name": "rust-fmt",
+    "url": "https://github.com/Aatch",
+    "author": "Aatch",
+    "updated": "2013-11-08T10:18:58Z",
+    "forks": 1,
+    "stars": 2
+  },
+  {
+    "name": "gingerbread-sgs4g_initramfs-hacked",
+    "url": "https://github.com/drhonk",
+    "author": "drhonk",
+    "updated": "2013-11-06T18:08:45Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "docopt.rs",
+    "url": "https://github.com/docopt",
+    "author": "docopt",
+    "updated": "2013-11-13T08:06:10Z",
+    "forks": 1,
+    "stars": 2
+  },
+  {
+    "name": "rust-btree",
+    "url": "https://github.com/smvv",
+    "author": "smvv",
+    "updated": "2013-11-21T14:34:07Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rust-core-graphics",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-11-16T06:08:51Z",
+    "forks": 8,
+    "stars": 2
+  },
+  {
+    "name": "gfx-rs",
+    "url": "https://github.com/bjz",
+    "author": "bjz",
+    "updated": "2013-11-17T04:43:12Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "iron",
+    "url": "https://github.com/smvv",
+    "author": "smvv",
+    "updated": "2013-11-26T23:47:40Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rust-lz4",
+    "url": "https://github.com/fread2281",
+    "author": "fread2281",
+    "updated": "2013-11-28T15:40:45Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "euler-rust",
+    "url": "https://github.com/Undeterminant",
+    "author": "Undeterminant",
+    "updated": "2013-06-20T13:56:34Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rush",
+    "url": "https://github.com/KokaKiwi",
+    "author": "KokaKiwi",
+    "updated": "2013-10-24T12:51:42Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "opencl.rs",
+    "url": "https://github.com/jensnockert",
+    "author": "jensnockert",
+    "updated": "2013-10-30T10:49:51Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rust-uuid",
+    "url": "https://github.com/ksev",
+    "author": "ksev",
+    "updated": "2013-10-31T03:34:14Z",
+    "forks": 1,
+    "stars": 2
+  },
+  {
+    "name": "rust",
+    "url": "https://github.com/hgentry",
+    "author": "hgentry",
+    "updated": "2013-10-30T20:11:48Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rust-hubbub",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-10-30T21:53:41Z",
+    "forks": 8,
+    "stars": 2
+  },
+  {
+    "name": "string-match",
+    "url": "https://github.com/JohnMurray",
+    "author": "JohnMurray",
+    "updated": "2013-11-03T20:34:46Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rust-redis",
+    "url": "https://github.com/mneumann",
+    "author": "mneumann",
+    "updated": "2013-10-26T17:42:23Z",
+    "forks": 2,
+    "stars": 2
+  },
+  {
+    "name": "device_samsung_mesmerizemtd",
+    "url": "https://github.com/OMFGB",
+    "author": "OMFGB",
+    "updated": "2013-11-04T15:49:03Z",
+    "forks": 6,
+    "stars": 2
+  },
+  {
+    "name": "CommunicateRecordBackUp",
+    "url": "https://github.com/GroupWindowProgram",
+    "author": "GroupWindowProgram",
+    "updated": "2013-11-06T02:09:17Z",
+    "forks": 1,
+    "stars": 2
+  },
+  {
+    "name": "llvm-rs",
+    "url": "https://github.com/Aatch",
+    "author": "Aatch",
+    "updated": "2013-10-15T10:19:29Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "android_device_b4",
+    "url": "https://github.com/jkoelker",
+    "author": "jkoelker",
+    "updated": "2013-10-18T15:34:59Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "initramfs-gt-i9100",
+    "url": "https://github.com/arighi",
+    "author": "arighi",
+    "updated": "2013-10-19T19:48:28Z",
+    "forks": 2,
+    "stars": 2
+  },
+  {
+    "name": "fear",
+    "url": "https://github.com/schuschu",
+    "author": "schuschu",
+    "updated": "2013-10-22T16:17:35Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "android_device_semc_zeus-common",
+    "url": "https://github.com/CyanogenMod",
+    "author": "CyanogenMod",
+    "updated": "2013-12-09T18:53:27Z",
+    "forks": 15,
+    "stars": 2
+  },
+  {
+    "name": "rustfftw",
+    "url": "https://github.com/jwise",
+    "author": "jwise",
+    "updated": "2013-12-06T04:37:30Z",
+    "forks": 1,
+    "stars": 2
+  },
+  {
+    "name": "Learn-Rust",
+    "url": "https://github.com/kaseyc",
+    "author": "kaseyc",
+    "updated": "2013-12-13T18:47:22Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rust-curses",
+    "url": "https://github.com/pnkfelix",
+    "author": "pnkfelix",
+    "updated": "2013-12-15T00:44:46Z",
+    "forks": 2,
+    "stars": 2
+  },
+  {
+    "name": "coinjoin",
+    "url": "https://github.com/apoelstra",
+    "author": "apoelstra",
+    "updated": "2013-12-18T15:52:14Z",
+    "forks": 1,
+    "stars": 2
+  },
+  {
+    "name": "Mirana",
+    "url": "https://github.com/Heather",
+    "author": "Heather",
+    "updated": "2013-12-18T07:16:00Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "kissdb-rust",
+    "url": "https://github.com/pirapira",
+    "author": "pirapira",
+    "updated": "2013-12-17T19:20:14Z",
+    "forks": 1,
+    "stars": 2
+  },
+  {
+    "name": "Scheme-VM",
+    "url": "https://github.com/LeoTestard",
+    "author": "LeoTestard",
+    "updated": "2013-12-19T15:34:03Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "muttrc",
+    "url": "https://github.com/l0stman",
+    "author": "l0stman",
+    "updated": "2013-12-19T23:29:37Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "licenseRs",
+    "url": "https://github.com/Khady",
+    "author": "Khady",
+    "updated": "2013-03-13T21:45:35Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "initramfs_i9100",
+    "url": "https://github.com/chromabox",
+    "author": "chromabox",
+    "updated": "2013-01-03T18:33:21Z",
+    "forks": 1,
+    "stars": 2
+  },
+  {
+    "name": "rlambda",
+    "url": "https://github.com/jwise",
+    "author": "jwise",
+    "updated": "2013-01-07T20:53:37Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rust-csv-parser",
+    "url": "https://github.com/koko1000ban",
+    "author": "koko1000ban",
+    "updated": "2013-09-04T00:03:01Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "Clean-Kernel-EG30",
+    "url": "https://github.com/bubby323",
+    "author": "bubby323",
+    "updated": "2013-08-20T02:41:32Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "clockworkmod_galaxys2spr_initramfs",
+    "url": "https://github.com/bubby323",
+    "author": "bubby323",
+    "updated": "2013-01-04T09:00:54Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "_resources_deprecated",
+    "url": "https://github.com/coapp-deprecated",
+    "author": "coapp-deprecated",
+    "updated": "2013-01-04T06:17:50Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "antidebugging",
+    "url": "https://github.com/eQu1NoX",
+    "author": "eQu1NoX",
+    "updated": "2013-05-26T06:25:36Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rust-time",
+    "url": "https://github.com/Aluminium95",
+    "author": "Aluminium95",
+    "updated": "2013-01-08T00:26:11Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "bullet-rs",
+    "url": "https://github.com/bjz",
+    "author": "bjz",
+    "updated": "2013-10-27T01:42:54Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "grease-bench",
+    "url": "https://github.com/Aatch",
+    "author": "Aatch",
+    "updated": "2013-10-26T08:25:33Z",
+    "forks": 2,
+    "stars": 2
+  },
+  {
+    "name": "GalaxyPlayer5-initrd",
+    "url": "https://github.com/rumirand",
+    "author": "rumirand",
+    "updated": "2013-10-30T01:01:38Z",
+    "forks": 2,
+    "stars": 2
+  },
+  {
+    "name": "Transform_Ultra_CWM_Kernel",
+    "url": "https://github.com/DRockstar",
+    "author": "DRockstar",
+    "updated": "2013-10-01T07:35:12Z",
+    "forks": 1,
+    "stars": 2
+  },
+  {
+    "name": "kern",
+    "url": "https://github.com/ldunn",
+    "author": "ldunn",
+    "updated": "2013-10-01T02:59:55Z",
+    "forks": 1,
+    "stars": 2
+  },
+  {
+    "name": "rust-jabberd",
+    "url": "https://github.com/pascalj",
+    "author": "pascalj",
+    "updated": "2013-05-28T00:22:32Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "treegrep",
+    "url": "https://github.com/flipcoder",
+    "author": "flipcoder",
+    "updated": "2013-05-15T21:18:05Z",
+    "forks": 1,
+    "stars": 2
+  },
+  {
+    "name": "MapReduce-Rust",
+    "url": "https://github.com/BinRoot",
+    "author": "BinRoot",
+    "updated": "2013-10-09T16:36:19Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rustfmt",
+    "url": "https://github.com/dbp",
+    "author": "dbp",
+    "updated": "2013-10-04T22:41:09Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "stock-initramfs-TLKJ3-galaxysII-telus",
+    "url": "https://github.com/bubby323",
+    "author": "bubby323",
+    "updated": "2013-10-10T04:00:28Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "Rusty-Account-Manager",
+    "url": "https://github.com/joseph-montanez",
+    "author": "joseph-montanez",
+    "updated": "2013-11-09T14:03:35Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "aiml2rs",
+    "url": "https://github.com/kirsle",
+    "author": "kirsle",
+    "updated": "2013-11-03T16:03:58Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rush",
+    "url": "https://github.com/davbo",
+    "author": "davbo",
+    "updated": "2013-11-09T23:07:09Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "pong-rs",
+    "url": "https://github.com/zokier",
+    "author": "zokier",
+    "updated": "2013-11-10T13:37:40Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "nettest",
+    "url": "https://github.com/neosmart",
+    "author": "neosmart",
+    "updated": "2013-11-21T16:54:42Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rust-hashlife",
+    "url": "https://github.com/rntz",
+    "author": "rntz",
+    "updated": "2013-10-15T08:22:28Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rdx",
+    "url": "https://github.com/evant",
+    "author": "evant",
+    "updated": "2013-10-15T12:51:54Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rbot",
+    "url": "https://github.com/pcwalton",
+    "author": "pcwalton",
+    "updated": "2013-10-15T15:37:52Z",
+    "forks": 1,
+    "stars": 2
+  },
+  {
+    "name": "rust-htmlescape",
+    "url": "https://github.com/veddan",
+    "author": "veddan",
+    "updated": "2013-10-17T09:30:50Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rust-seccomp",
+    "url": "https://github.com/thestinger",
+    "author": "thestinger",
+    "updated": "2013-11-05T22:12:10Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "RustMachineLearning",
+    "url": "https://github.com/MaikKlein",
+    "author": "MaikKlein",
+    "updated": "2013-11-05T08:19:40Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "fae",
+    "url": "https://github.com/FluffySauce",
+    "author": "FluffySauce",
+    "updated": "2013-11-03T21:19:39Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rustils",
+    "url": "https://github.com/smadhueagle",
+    "author": "smadhueagle",
+    "updated": "2013-11-04T08:38:23Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rust-testing-microframework",
+    "url": "https://github.com/wilkie",
+    "author": "wilkie",
+    "updated": "2013-11-07T19:40:48Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "lz4-rs",
+    "url": "https://github.com/MarkJr94",
+    "author": "MarkJr94",
+    "updated": "2013-11-18T20:38:12Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "pyrson",
+    "url": "https://github.com/kevlened",
+    "author": "kevlened",
+    "updated": "2013-11-27T15:22:42Z",
+    "forks": 1,
+    "stars": 2
+  },
+  {
+    "name": "light-sculpture",
+    "url": "https://github.com/jmgrosen",
+    "author": "jmgrosen",
+    "updated": "2013-07-30T19:29:59Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "trust",
+    "url": "https://github.com/thethirdman",
+    "author": "thethirdman",
+    "updated": "2013-09-02T13:34:49Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "memcache-rust",
+    "url": "https://github.com/aisk",
+    "author": "aisk",
+    "updated": "2013-07-11T09:12:10Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "hello_genetics",
+    "url": "https://github.com/glacials",
+    "author": "glacials",
+    "updated": "2013-12-02T05:24:21Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "multibuilder",
+    "url": "https://github.com/huonw",
+    "author": "huonw",
+    "updated": "2013-12-04T11:55:26Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "tiffbot-2",
+    "url": "https://github.com/tiffany352",
+    "author": "tiffany352",
+    "updated": "2013-11-25T16:33:16Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "Galvanized",
+    "url": "https://github.com/peterdn",
+    "author": "peterdn",
+    "updated": "2013-12-11T01:02:43Z",
+    "forks": 1,
+    "stars": 2
+  },
+  {
+    "name": "rgtk",
+    "url": "https://github.com/JeremyLetang",
+    "author": "JeremyLetang",
+    "updated": "2013-12-15T00:24:08Z",
+    "forks": 1,
+    "stars": 2
+  },
+  {
+    "name": "rust-time",
+    "url": "https://github.com/erickt",
+    "author": "erickt",
+    "updated": "2013-12-05T16:54:00Z",
+    "forks": 0,
+    "stars": 2
+  },
+  {
+    "name": "rust-pcre",
+    "url": "https://github.com/cadencemarseille",
+    "author": "cadencemarseille",
+    "updated": "2013-12-16T12:30:22Z",
+    "forks": 2,
+    "stars": 2
+  },
+  {
+    "name": "mbpkbdbacklightctl-arch",
+    "url": "https://github.com/ChrisBuchholz",
+    "author": "ChrisBuchholz",
+    "updated": "2013-08-10T02:20:00Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "SK17i_ramdisk",
+    "url": "https://github.com/8796n",
+    "author": "8796n",
+    "updated": "2013-01-04T01:43:24Z",
+    "forks": 1,
+    "stars": 1
+  },
+  {
+    "name": "litestepConf",
+    "url": "https://github.com/gsobczyk",
+    "author": "gsobczyk",
+    "updated": "2013-01-04T04:30:39Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "P1010-ramdisk",
+    "url": "https://github.com/Skin1980",
+    "author": "Skin1980",
+    "updated": "2013-01-04T22:40:52Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "config",
+    "url": "https://github.com/flyer-explorer",
+    "author": "flyer-explorer",
+    "updated": "2013-01-04T21:34:26Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rs",
+    "url": "https://github.com/echoline",
+    "author": "echoline",
+    "updated": "2013-01-04T21:17:04Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "crespo_support_files",
+    "url": "https://github.com/AndroidCentralDevelopers",
+    "author": "AndroidCentralDevelopers",
+    "updated": "2013-01-04T23:58:07Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "cm7_vendor_lge_thunderg",
+    "url": "https://github.com/jibyjose",
+    "author": "jibyjose",
+    "updated": "2013-09-08T14:01:48Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "kde-settings-james147",
+    "url": "https://github.com/james147",
+    "author": "james147",
+    "updated": "2013-07-23T23:57:21Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "dzil-base",
+    "url": "https://github.com/mstock",
+    "author": "mstock",
+    "updated": "2013-01-06T20:53:27Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust",
+    "url": "https://github.com/berak",
+    "author": "berak",
+    "updated": "2013-08-27T02:58:52Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "ramdisk",
+    "url": "https://github.com/wooshy1",
+    "author": "wooshy1",
+    "updated": "2013-01-04T13:53:42Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "hsqldb",
+    "url": "https://github.com/gooselinux",
+    "author": "gooselinux",
+    "updated": "2013-03-24T19:56:38Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "device_htc_shooter",
+    "url": "https://github.com/wrxtc714",
+    "author": "wrxtc714",
+    "updated": "2013-01-04T18:19:04Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "stock-initramfs",
+    "url": "https://github.com/thomasskull666",
+    "author": "thomasskull666",
+    "updated": "2013-01-04T05:08:41Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "SGS2-Initramfs-KI4",
+    "url": "https://github.com/FrozenData",
+    "author": "FrozenData",
+    "updated": "2013-09-04T21:15:05Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "ginger_initramfs",
+    "url": "https://github.com/xcaliburinhand",
+    "author": "xcaliburinhand",
+    "updated": "2013-01-04T07:05:44Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "dotfiles",
+    "url": "https://github.com/srob101",
+    "author": "srob101",
+    "updated": "2013-01-04T15:53:32Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "dotfiles",
+    "url": "https://github.com/figital",
+    "author": "figital",
+    "updated": "2012-12-15T00:08:54Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rustcheck",
+    "url": "https://github.com/kolmodin",
+    "author": "kolmodin",
+    "updated": "2013-06-17T01:35:24Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "sokoban",
+    "url": "https://github.com/vcque",
+    "author": "vcque",
+    "updated": "2013-08-27T19:39:58Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-game",
+    "url": "https://github.com/mitsuhiko",
+    "author": "mitsuhiko",
+    "updated": "2013-08-27T00:59:15Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "packrat-thesis-rust",
+    "url": "https://github.com/alexjg",
+    "author": "alexjg",
+    "updated": "2013-09-13T11:38:40Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "project-euler",
+    "url": "https://github.com/mikezaby",
+    "author": "mikezaby",
+    "updated": "2013-09-01T21:06:06Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "escape_html",
+    "url": "https://github.com/steveklabnik",
+    "author": "steveklabnik",
+    "updated": "2013-09-14T03:25:41Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-actor-experiments",
+    "url": "https://github.com/nielsle",
+    "author": "nielsle",
+    "updated": "2013-09-14T14:02:31Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "clashrs",
+    "url": "https://github.com/MarkJr94",
+    "author": "MarkJr94",
+    "updated": "2013-09-20T20:30:32Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "samsung_initramfs",
+    "url": "https://github.com/mtuton",
+    "author": "mtuton",
+    "updated": "2013-10-04T00:49:30Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-perf",
+    "url": "https://github.com/duane",
+    "author": "duane",
+    "updated": "2013-10-01T04:22:00Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "Lucas-Sequence",
+    "url": "https://github.com/Wollw",
+    "author": "Wollw",
+    "updated": "2013-10-02T01:53:43Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "my-barebones-vim-rc",
+    "url": "https://github.com/brycem",
+    "author": "brycem",
+    "updated": "2013-09-25T03:46:20Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "chameneos-redux",
+    "url": "https://github.com/killerswan",
+    "author": "killerswan",
+    "updated": "2013-09-25T13:47:50Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "r5.rs",
+    "url": "https://github.com/kimhyunkang",
+    "author": "kimhyunkang",
+    "updated": "2013-09-26T10:52:58Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rusted-bridge",
+    "url": "https://github.com/psantacl",
+    "author": "psantacl",
+    "updated": "2013-10-02T05:45:01Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "zshrc",
+    "url": "https://github.com/baloo",
+    "author": "baloo",
+    "updated": "2013-09-24T00:39:01Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-graph",
+    "url": "https://github.com/Tristramg",
+    "author": "Tristramg",
+    "updated": "2013-09-29T18:50:51Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "servo-viewer",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-10-09T20:14:11Z",
+    "forks": 1,
+    "stars": 1
+  },
+  {
+    "name": "superstrom-overlay",
+    "url": "https://github.com/superstrom",
+    "author": "superstrom",
+    "updated": "2013-10-06T18:50:40Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "initramfs_recovery_GT-P2600L",
+    "url": "https://github.com/garyd9",
+    "author": "garyd9",
+    "updated": "2013-10-07T04:07:36Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "cm_device_amlogic_aml8726m",
+    "url": "https://github.com/willrod112",
+    "author": "willrod112",
+    "updated": "2013-10-06T16:00:40Z",
+    "forks": 1,
+    "stars": 1
+  },
+  {
+    "name": "rust-dlopen",
+    "url": "https://github.com/doy",
+    "author": "doy",
+    "updated": "2013-10-06T03:13:11Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "ColdboxOnCloudbees",
+    "url": "https://github.com/Molnfront",
+    "author": "Molnfront",
+    "updated": "2013-10-06T22:28:43Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-projects",
+    "url": "https://github.com/am0d",
+    "author": "am0d",
+    "updated": "2013-11-11T23:25:46Z",
+    "forks": 2,
+    "stars": 1
+  },
+  {
+    "name": "rust-mecab",
+    "url": "https://github.com/tychosci",
+    "author": "tychosci",
+    "updated": "2013-11-08T01:23:38Z",
+    "forks": 2,
+    "stars": 1
+  },
+  {
+    "name": "rust-xlib",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-11-08T20:32:31Z",
+    "forks": 7,
+    "stars": 1
+  },
+  {
+    "name": "latitude_ios",
+    "url": "https://github.com/ufotalent",
+    "author": "ufotalent",
+    "updated": "2013-11-12T16:32:36Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-xlib",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-11-08T20:32:31Z",
+    "forks": 7,
+    "stars": 1
+  },
+  {
+    "name": "rust-mecab",
+    "url": "https://github.com/tychosci",
+    "author": "tychosci",
+    "updated": "2013-11-08T01:23:38Z",
+    "forks": 2,
+    "stars": 1
+  },
+  {
+    "name": "latitude_ios",
+    "url": "https://github.com/ufotalent",
+    "author": "ufotalent",
+    "updated": "2013-11-12T16:32:36Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "MyTourGuide",
+    "url": "https://github.com/lovesunstar",
+    "author": "lovesunstar",
+    "updated": "2013-11-26T03:15:44Z",
+    "forks": 1,
+    "stars": 1
+  },
+  {
+    "name": "CanvasRenderingContext2DMozilla",
+    "url": "https://github.com/Aalhad",
+    "author": "Aalhad",
+    "updated": "2013-11-22T22:47:01Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-code",
+    "url": "https://github.com/toffaletti",
+    "author": "toffaletti",
+    "updated": "2013-11-18T03:19:26Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-netsurfcss",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-11-21T23:10:58Z",
+    "forks": 17,
+    "stars": 1
+  },
+  {
+    "name": "rust-gfx",
+    "url": "https://github.com/rossmurray",
+    "author": "rossmurray",
+    "updated": "2013-11-23T01:30:17Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "euler",
+    "url": "https://github.com/toroidal-code",
+    "author": "toroidal-code",
+    "updated": "2013-11-29T14:38:35Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "aeq",
+    "url": "https://github.com/aeqwa",
+    "author": "aeqwa",
+    "updated": "2013-11-28T22:27:02Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rustcheck",
+    "url": "https://github.com/kolmodin",
+    "author": "kolmodin",
+    "updated": "2013-06-17T01:35:24Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "sokoban",
+    "url": "https://github.com/vcque",
+    "author": "vcque",
+    "updated": "2013-08-27T19:39:58Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-game",
+    "url": "https://github.com/mitsuhiko",
+    "author": "mitsuhiko",
+    "updated": "2013-08-27T00:59:15Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "packrat-thesis-rust",
+    "url": "https://github.com/alexjg",
+    "author": "alexjg",
+    "updated": "2013-09-13T11:38:40Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "project-euler",
+    "url": "https://github.com/mikezaby",
+    "author": "mikezaby",
+    "updated": "2013-09-01T21:06:06Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "escape_html",
+    "url": "https://github.com/steveklabnik",
+    "author": "steveklabnik",
+    "updated": "2013-09-14T03:25:41Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-actor-experiments",
+    "url": "https://github.com/nielsle",
+    "author": "nielsle",
+    "updated": "2013-09-14T14:02:31Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "clashrs",
+    "url": "https://github.com/MarkJr94",
+    "author": "MarkJr94",
+    "updated": "2013-09-20T20:30:32Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "samsung_initramfs",
+    "url": "https://github.com/mtuton",
+    "author": "mtuton",
+    "updated": "2013-10-04T00:49:30Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-perf",
+    "url": "https://github.com/duane",
+    "author": "duane",
+    "updated": "2013-10-01T04:22:00Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "Lucas-Sequence",
+    "url": "https://github.com/Wollw",
+    "author": "Wollw",
+    "updated": "2013-10-02T01:53:43Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "my-barebones-vim-rc",
+    "url": "https://github.com/brycem",
+    "author": "brycem",
+    "updated": "2013-09-25T03:46:20Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "chameneos-redux",
+    "url": "https://github.com/killerswan",
+    "author": "killerswan",
+    "updated": "2013-09-25T13:47:50Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "r5.rs",
+    "url": "https://github.com/kimhyunkang",
+    "author": "kimhyunkang",
+    "updated": "2013-09-26T10:52:58Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rusted-bridge",
+    "url": "https://github.com/psantacl",
+    "author": "psantacl",
+    "updated": "2013-10-02T05:45:01Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "zshrc",
+    "url": "https://github.com/baloo",
+    "author": "baloo",
+    "updated": "2013-09-24T00:39:01Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-graph",
+    "url": "https://github.com/Tristramg",
+    "author": "Tristramg",
+    "updated": "2013-09-29T18:50:51Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "servo-viewer",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-10-09T20:14:11Z",
+    "forks": 1,
+    "stars": 1
+  },
+  {
+    "name": "superstrom-overlay",
+    "url": "https://github.com/superstrom",
+    "author": "superstrom",
+    "updated": "2013-10-06T18:50:40Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "initramfs_recovery_GT-P2600L",
+    "url": "https://github.com/garyd9",
+    "author": "garyd9",
+    "updated": "2013-10-07T04:07:36Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "cm_device_amlogic_aml8726m",
+    "url": "https://github.com/willrod112",
+    "author": "willrod112",
+    "updated": "2013-10-06T16:00:40Z",
+    "forks": 1,
+    "stars": 1
+  },
+  {
+    "name": "rust-dlopen",
+    "url": "https://github.com/doy",
+    "author": "doy",
+    "updated": "2013-10-06T03:13:11Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "ColdboxOnCloudbees",
+    "url": "https://github.com/Molnfront",
+    "author": "Molnfront",
+    "updated": "2013-10-06T22:28:43Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "bisschen",
+    "url": "https://github.com/skade",
+    "author": "skade",
+    "updated": "2013-11-29T19:14:05Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-nss",
+    "url": "https://github.com/mletterle",
+    "author": "mletterle",
+    "updated": "2013-12-01T01:35:57Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "cm_device_telechips_tcc8803rt",
+    "url": "https://github.com/naobsd",
+    "author": "naobsd",
+    "updated": "2013-12-01T12:10:14Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "redmond3-gtk",
+    "url": "https://github.com/necrothemes",
+    "author": "necrothemes",
+    "updated": "2013-12-01T04:22:36Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-serde",
+    "url": "https://github.com/erickt",
+    "author": "erickt",
+    "updated": "2013-11-30T05:39:05Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "wombatise",
+    "url": "https://github.com/maikodaraine",
+    "author": "maikodaraine",
+    "updated": "2013-12-06T07:27:39Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "llrbt.rs",
+    "url": "https://github.com/jakub-",
+    "author": "jakub-",
+    "updated": "2013-12-09T21:31:56Z",
+    "forks": 1,
+    "stars": 1
+  },
+  {
+    "name": "a8282cf2",
+    "url": "https://github.com/jakub-",
+    "author": "jakub-",
+    "updated": "2013-12-09T21:31:56Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rustic_cells",
+    "url": "https://github.com/osaut",
+    "author": "osaut",
+    "updated": "2013-12-08T14:32:47Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rslex",
+    "url": "https://github.com/tautologico",
+    "author": "tautologico",
+    "updated": "2013-12-10T02:21:32Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-dumb-gtk",
+    "url": "https://github.com/Blei",
+    "author": "Blei",
+    "updated": "2013-12-11T20:50:19Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "tinsnips",
+    "url": "https://github.com/jld",
+    "author": "jld",
+    "updated": "2013-12-12T15:48:58Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-code",
+    "url": "https://github.com/idupree",
+    "author": "idupree",
+    "updated": "2013-12-13T08:55:11Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-cssparser",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-12-13T01:33:44Z",
+    "forks": 8,
+    "stars": 1
+  },
+  {
+    "name": "wand-of-rust",
+    "url": "https://github.com/influenza",
+    "author": "influenza",
+    "updated": "2013-12-07T15:24:54Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "android_system_core_rootdir",
+    "url": "https://github.com/Krylon360",
+    "author": "Krylon360",
+    "updated": "2013-12-07T18:38:45Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "ibis",
+    "url": "https://github.com/djehuty",
+    "author": "djehuty",
+    "updated": "2013-12-08T19:58:53Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-rosetta",
+    "url": "https://github.com/Hoverbear",
+    "author": "Hoverbear",
+    "updated": "2013-12-15T21:41:59Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "assimp-rs",
+    "url": "https://github.com/h3r2tic",
+    "author": "h3r2tic",
+    "updated": "2013-12-15T20:59:03Z",
+    "forks": 2,
+    "stars": 1
+  },
+  {
+    "name": "rust-ssl",
+    "url": "https://github.com/sfackler",
+    "author": "sfackler",
+    "updated": "2013-12-16T06:14:10Z",
+    "forks": 2,
+    "stars": 1
+  },
+  {
+    "name": "Espressor",
+    "url": "https://github.com/ILyoan",
+    "author": "ILyoan",
+    "updated": "2013-12-16T13:15:32Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "Temp-Space",
+    "url": "https://github.com/vkorapaty",
+    "author": "vkorapaty",
+    "updated": "2013-08-09T01:49:29Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "android_device_hp_tenderloin",
+    "url": "https://github.com/csleex",
+    "author": "csleex",
+    "updated": "2013-12-17T11:12:00Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "noise-rs",
+    "url": "https://github.com/bjz",
+    "author": "bjz",
+    "updated": "2013-12-18T01:36:55Z",
+    "forks": 3,
+    "stars": 1
+  },
+  {
+    "name": "python-rs",
+    "url": "https://github.com/redbrain",
+    "author": "redbrain",
+    "updated": "2013-12-18T15:57:50Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "fusion_green",
+    "url": "https://github.com/arielvega",
+    "author": "arielvega",
+    "updated": "2013-12-17T23:13:44Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "WGFEM-Rust",
+    "url": "https://github.com/scharris",
+    "author": "scharris",
+    "updated": "2013-12-18T21:26:08Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "persistent",
+    "url": "https://github.com/lucian1900",
+    "author": "lucian1900",
+    "updated": "2013-08-28T10:25:02Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "android_device_samsung_i9070",
+    "url": "https://github.com/Shaaan",
+    "author": "Shaaan",
+    "updated": "2013-04-04T18:21:04Z",
+    "forks": 1,
+    "stars": 1
+  },
+  {
+    "name": "rust-template",
+    "url": "https://github.com/martica",
+    "author": "martica",
+    "updated": "2013-04-29T03:31:00Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rmcr",
+    "url": "https://github.com/cyndis",
+    "author": "cyndis",
+    "updated": "2013-04-07T12:55:52Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "Foresight-grey",
+    "url": "https://github.com/ermo",
+    "author": "ermo",
+    "updated": "2013-01-03T22:18:47Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "Shiki-Tribute-Flat-Dark",
+    "url": "https://github.com/cryptspirit",
+    "author": "cryptspirit",
+    "updated": "2013-01-04T00:25:35Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "barnowl-overlay",
+    "url": "https://github.com/wthrowe",
+    "author": "wthrowe",
+    "updated": "2013-07-27T16:38:59Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "aur-packages",
+    "url": "https://github.com/chrippa",
+    "author": "chrippa",
+    "updated": "2013-07-01T10:59:32Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "imx_device_fsl",
+    "url": "https://github.com/CharlieWood",
+    "author": "CharlieWood",
+    "updated": "2013-01-04T04:40:52Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "ruTorrent-Installer",
+    "url": "https://github.com/joshmackey",
+    "author": "joshmackey",
+    "updated": "2013-08-27T00:23:29Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "themes",
+    "url": "https://github.com/CageLiu",
+    "author": "CageLiu",
+    "updated": "2013-01-04T19:20:18Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "TiaCWM-V6",
+    "url": "https://github.com/tiad8",
+    "author": "tiad8",
+    "updated": "2013-05-30T14:49:08Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "GDoH",
+    "url": "https://github.com/Hoonter",
+    "author": "Hoonter",
+    "updated": "2013-01-04T23:42:36Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "cinnamon-themes",
+    "url": "https://github.com/iammuneeb",
+    "author": "iammuneeb",
+    "updated": "2013-01-05T20:08:22Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "android_device_motorola_droid2we",
+    "url": "https://github.com/MidnightProgrammer",
+    "author": "MidnightProgrammer",
+    "updated": "2013-01-05T19:56:30Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "android_device_motorola_droid2",
+    "url": "https://github.com/MidnightProgrammer",
+    "author": "MidnightProgrammer",
+    "updated": "2013-01-05T19:56:51Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "ecenth",
+    "url": "https://github.com/cenzino",
+    "author": "cenzino",
+    "updated": "2013-01-04T12:22:32Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "samsung_admire_ramdisk_hacked",
+    "url": "https://github.com/Krylon360",
+    "author": "Krylon360",
+    "updated": "2013-05-06T05:06:01Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "initramfs_xxkph",
+    "url": "https://github.com/hackthagalaxyssl",
+    "author": "hackthagalaxyssl",
+    "updated": "2013-01-04T06:20:21Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "android_device_motorola_sholes-recovery",
+    "url": "https://github.com/raidzero",
+    "author": "raidzero",
+    "updated": "2013-01-04T13:36:45Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "android_build_target",
+    "url": "https://github.com/Krylon360",
+    "author": "Krylon360",
+    "updated": "2013-01-04T14:38:14Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rustsh",
+    "url": "https://github.com/ruds",
+    "author": "ruds",
+    "updated": "2013-01-08T01:27:18Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "OpenVPN-GUI-Chrome",
+    "url": "https://github.com/Codemi",
+    "author": "Codemi",
+    "updated": "2013-01-20T11:59:06Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "bragi",
+    "url": "https://github.com/raedwulf",
+    "author": "raedwulf",
+    "updated": "2013-01-04T11:07:59Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "android_device_motorola_venus2",
+    "url": "https://github.com/RevNumbers",
+    "author": "RevNumbers",
+    "updated": "2013-01-04T11:21:29Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "AtolmBlack",
+    "url": "https://github.com/wallunit",
+    "author": "wallunit",
+    "updated": "2013-01-04T21:22:40Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "cyanogenmod-galaxys2spr-2nd-stage-initramfs",
+    "url": "https://github.com/bubby323",
+    "author": "bubby323",
+    "updated": "2013-09-06T23:29:44Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "PassKeeper",
+    "url": "https://github.com/bgreenlee",
+    "author": "bgreenlee",
+    "updated": "2013-01-14T14:03:19Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "ambiance",
+    "url": "https://github.com/jbernard",
+    "author": "jbernard",
+    "updated": "2013-09-05T00:52:40Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "dotfiles",
+    "url": "https://github.com/Ariba",
+    "author": "Ariba",
+    "updated": "2012-12-25T10:10:44Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "ydengine",
+    "url": "https://github.com/Kimundi",
+    "author": "Kimundi",
+    "updated": "2013-03-06T17:36:39Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "Public-Reference-Solution",
+    "url": "https://github.com/cs4414",
+    "author": "cs4414",
+    "updated": "2013-10-27T22:44:56Z",
+    "forks": 1,
+    "stars": 1
+  },
+  {
+    "name": "Tourney",
+    "url": "https://github.com/Arcterus",
+    "author": "Arcterus",
+    "updated": "2013-10-30T09:13:53Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "dot-rtorrent",
+    "url": "https://github.com/skangas",
+    "author": "skangas",
+    "updated": "2013-10-22T04:14:29Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "compression-statistique",
+    "url": "https://github.com/homeostasie",
+    "author": "homeostasie",
+    "updated": "2013-10-21T16:11:54Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "app-sdb_client",
+    "url": "https://github.com/dagolden",
+    "author": "dagolden",
+    "updated": "2013-10-23T11:44:26Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "color-rs",
+    "url": "https://github.com/bjz",
+    "author": "bjz",
+    "updated": "2013-10-23T23:49:26Z",
+    "forks": 3,
+    "stars": 1
+  },
+  {
+    "name": "vmath",
+    "url": "https://github.com/hyperlogic",
+    "author": "hyperlogic",
+    "updated": "2013-10-24T23:55:55Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "ixl-rust",
+    "url": "https://github.com/jayferd",
+    "author": "jayferd",
+    "updated": "2013-09-30T23:06:33Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rusm",
+    "url": "https://github.com/planglois",
+    "author": "planglois",
+    "updated": "2013-10-28T19:48:54Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-challenge",
+    "url": "https://github.com/Kambfhase",
+    "author": "Kambfhase",
+    "updated": "2013-10-31T15:43:52Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "samsung_indulge",
+    "url": "https://github.com/playfulgod",
+    "author": "playfulgod",
+    "updated": "2013-10-31T09:47:25Z",
+    "forks": 1,
+    "stars": 1
+  },
+  {
+    "name": "s5pc110-honeycomb",
+    "url": "https://github.com/tlbardelljr",
+    "author": "tlbardelljr",
+    "updated": "2013-11-02T06:19:57Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-bson",
+    "url": "https://github.com/christkv",
+    "author": "christkv",
+    "updated": "2013-06-06T11:48:48Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "string.rs",
+    "url": "https://github.com/jensnockert",
+    "author": "jensnockert",
+    "updated": "2013-06-20T14:14:55Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "overlay",
+    "url": "https://github.com/Sp0i3eR",
+    "author": "Sp0i3eR",
+    "updated": "2013-11-07T10:34:59Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-hd",
+    "url": "https://github.com/dgryski",
+    "author": "dgryski",
+    "updated": "2013-11-11T03:49:37Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "Epic4GTouch-Initramfs",
+    "url": "https://github.com/TDR",
+    "author": "TDR",
+    "updated": "2013-11-13T02:47:24Z",
+    "forks": 1,
+    "stars": 1
+  },
+  {
+    "name": "rust-sdl_ttf",
+    "url": "https://github.com/sfackler",
+    "author": "sfackler",
+    "updated": "2013-11-13T07:24:00Z",
+    "forks": 1,
+    "stars": 1
+  },
+  {
+    "name": "mic-initramfs-gb",
+    "url": "https://github.com/mtuton",
+    "author": "mtuton",
+    "updated": "2013-11-03T12:58:05Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-fun",
+    "url": "https://github.com/jvns",
+    "author": "jvns",
+    "updated": "2013-11-02T21:14:22Z",
+    "forks": 1,
+    "stars": 1
+  },
+  {
+    "name": "rsmc",
+    "url": "https://github.com/cyndis",
+    "author": "cyndis",
+    "updated": "2013-11-03T18:46:14Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-ini",
+    "url": "https://github.com/zonyitoo",
+    "author": "zonyitoo",
+    "updated": "2013-11-05T15:54:04Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-lua",
+    "url": "https://github.com/TheCodeBroski",
+    "author": "TheCodeBroski",
+    "updated": "2013-11-04T21:16:35Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "Frugalware-KDE4-ksplash-theme-adee",
+    "url": "https://github.com/adee",
+    "author": "adee",
+    "updated": "2013-11-04T06:16:25Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "MP810C-CM7",
+    "url": "https://github.com/diegocortassa",
+    "author": "diegocortassa",
+    "updated": "2013-11-06T09:58:21Z",
+    "forks": 1,
+    "stars": 1
+  },
+  {
+    "name": "rust-wapcaplet",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-11-21T23:11:13Z",
+    "forks": 8,
+    "stars": 1
+  },
+  {
+    "name": "sharegl",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-11-19T21:00:38Z",
+    "forks": 10,
+    "stars": 1
+  },
+  {
+    "name": "hugbot-rust",
+    "url": "https://github.com/calumleslie",
+    "author": "calumleslie",
+    "updated": "2013-10-05T11:51:56Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "tilengine",
+    "url": "https://github.com/bg-",
+    "author": "bg-",
+    "updated": "2013-10-06T22:27:07Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-rpg-sim",
+    "url": "https://github.com/Zolomon",
+    "author": "Zolomon",
+    "updated": "2013-10-03T14:08:58Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "BlendMIUI-NEO-ramdisk",
+    "url": "https://github.com/JasonStein",
+    "author": "JasonStein",
+    "updated": "2013-10-06T13:03:59Z",
+    "forks": 1,
+    "stars": 1
+  },
+  {
+    "name": "siphash-rust",
+    "url": "https://github.com/dgryski",
+    "author": "dgryski",
+    "updated": "2013-10-04T14:08:27Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "test-pkg",
+    "url": "https://github.com/catamorphism",
+    "author": "catamorphism",
+    "updated": "2013-10-06T04:09:08Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "RustTorrent",
+    "url": "https://github.com/kaseyc",
+    "author": "kaseyc",
+    "updated": "2013-10-10T06:49:02Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "go",
+    "url": "https://github.com/wolfwood",
+    "author": "wolfwood",
+    "updated": "2013-10-10T09:48:53Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "must",
+    "url": "https://github.com/JeffMurray",
+    "author": "JeffMurray",
+    "updated": "2013-10-14T02:13:39Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "android_device_htc_ruby",
+    "url": "https://github.com/Xboarder56",
+    "author": "Xboarder56",
+    "updated": "2013-10-15T21:55:59Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust_adventure",
+    "url": "https://github.com/MarkJr94",
+    "author": "MarkJr94",
+    "updated": "2013-10-18T02:07:05Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "LG-P500-ICS-Vendor-Folder",
+    "url": "https://github.com/ML-Design",
+    "author": "ML-Design",
+    "updated": "2013-10-14T14:58:35Z",
+    "forks": 4,
+    "stars": 1
+  },
+  {
+    "name": "rust-la",
+    "url": "https://github.com/xasmx",
+    "author": "xasmx",
+    "updated": "2013-10-15T14:48:33Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "dotfiles",
+    "url": "https://github.com/diffra",
+    "author": "diffra",
+    "updated": "2013-10-11T01:02:18Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "clockworkmod_galaxys2spr_initramfs",
+    "url": "https://github.com/chris41g",
+    "author": "chris41g",
+    "updated": "2013-10-20T02:31:11Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "stock-initramfs-UVKID-galaxysII-tmo",
+    "url": "https://github.com/bubby323",
+    "author": "bubby323",
+    "updated": "2013-10-20T16:52:05Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "Twilight_Zone_initramfs",
+    "url": "https://github.com/k0nane",
+    "author": "k0nane",
+    "updated": "2013-10-21T00:09:36Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-cairo",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-11-15T05:00:41Z",
+    "forks": 2,
+    "stars": 1
+  },
+  {
+    "name": "rust-bf",
+    "url": "https://github.com/dgryski",
+    "author": "dgryski",
+    "updated": "2013-09-17T15:24:29Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-snake",
+    "url": "https://github.com/jshumway",
+    "author": "jshumway",
+    "updated": "2013-08-06T20:37:20Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "RustNN",
+    "url": "https://github.com/FerarDuanSednan",
+    "author": "FerarDuanSednan",
+    "updated": "2013-08-17T08:20:17Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-actors",
+    "url": "https://github.com/FlaPer87",
+    "author": "FlaPer87",
+    "updated": "2013-09-07T00:20:11Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "taocp-rust",
+    "url": "https://github.com/pnkfelix",
+    "author": "pnkfelix",
+    "updated": "2013-12-01T03:50:47Z",
+    "forks": 1,
+    "stars": 1
+  },
+  {
+    "name": "rusty-cairo",
+    "url": "https://github.com/gmfawcett",
+    "author": "gmfawcett",
+    "updated": "2013-12-06T14:11:35Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "argparse-rs",
+    "url": "https://github.com/KokaKiwi",
+    "author": "KokaKiwi",
+    "updated": "2013-11-30T10:39:17Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "tmux_min_attacher",
+    "url": "https://github.com/antifuchs",
+    "author": "antifuchs",
+    "updated": "2013-12-06T02:19:57Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "terminfo-rs",
+    "url": "https://github.com/cmr",
+    "author": "cmr",
+    "updated": "2013-12-06T20:23:43Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "device_samsung_showcasemtd",
+    "url": "https://github.com/OMFGB",
+    "author": "OMFGB",
+    "updated": "2013-12-07T22:06:59Z",
+    "forks": 5,
+    "stars": 1
+  },
+  {
+    "name": "rust-audio-experiments",
+    "url": "https://github.com/victor-shepardson",
+    "author": "victor-shepardson",
+    "updated": "2013-12-07T20:26:12Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-kr-rust",
+    "url": "https://github.com/klutzy",
+    "author": "klutzy",
+    "updated": "2013-12-09T15:13:14Z",
+    "forks": 2,
+    "stars": 1
+  },
+  {
+    "name": "rust-geoip",
+    "url": "https://github.com/jedisct1",
+    "author": "jedisct1",
+    "updated": "2013-12-10T00:37:25Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "thumbis",
+    "url": "https://github.com/MarkJr94",
+    "author": "MarkJr94",
+    "updated": "2013-12-12T06:36:46Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "ParticleBench",
+    "url": "https://github.com/logicchains",
+    "author": "logicchains",
+    "updated": "2013-12-14T06:20:18Z",
+    "forks": 2,
+    "stars": 1
+  },
+  {
+    "name": "LTEOMAPNEXRD",
+    "url": "https://github.com/poitee",
+    "author": "poitee",
+    "updated": "2013-12-14T18:03:55Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-levenshtein",
+    "url": "https://github.com/pwoolcoc",
+    "author": "pwoolcoc",
+    "updated": "2013-12-17T07:23:15Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-bencode",
+    "url": "https://github.com/themasch",
+    "author": "themasch",
+    "updated": "2013-12-17T04:54:03Z",
+    "forks": 1,
+    "stars": 1
+  },
+  {
+    "name": "gi",
+    "url": "https://github.com/excepttheweasel",
+    "author": "excepttheweasel",
+    "updated": "2013-12-17T11:38:27Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-optparse",
+    "url": "https://github.com/robertknight",
+    "author": "robertknight",
+    "updated": "2013-12-17T23:13:51Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "sax-rs",
+    "url": "https://github.com/bjz",
+    "author": "bjz",
+    "updated": "2013-12-18T04:09:53Z",
+    "forks": 4,
+    "stars": 1
+  },
+  {
+    "name": "tuquito-artwork-gnome",
+    "url": "https://github.com/tuquito",
+    "author": "tuquito",
+    "updated": "2013-12-19T15:27:01Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rust-examples",
+    "url": "https://github.com/eliovir",
+    "author": "eliovir",
+    "updated": "2013-12-18T20:58:19Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "meow",
+    "url": "https://github.com/killerswan",
+    "author": "killerswan",
+    "updated": "2013-12-19T18:33:27Z",
+    "forks": 1,
+    "stars": 1
+  },
+  {
+    "name": "rusty-spoon",
+    "url": "https://github.com/divarvel",
+    "author": "divarvel",
+    "updated": "2013-12-20T01:37:46Z",
+    "forks": 0,
+    "stars": 1
+  },
+  {
+    "name": "rustedunix",
+    "url": "https://github.com/mcpherrinm",
+    "author": "mcpherrinm",
+    "updated": "2013-04-09T11:59:35Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "channels",
+    "url": "https://github.com/jhebus",
+    "author": "jhebus",
+    "updated": "2013-01-14T00:55:44Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "RustLua",
+    "url": "https://github.com/Thiez",
+    "author": "Thiez",
+    "updated": "2013-03-14T16:16:33Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rustLearning",
+    "url": "https://github.com/amuxtux",
+    "author": "amuxtux",
+    "updated": "2013-04-09T11:54:52Z",
+    "forks": 1,
+    "stars": 0
+  },
+  {
+    "name": "prime-factors-rust",
+    "url": "https://github.com/steven-s",
+    "author": "steven-s",
+    "updated": "2013-02-22T02:11:09Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "CIS-530-HW2",
+    "url": "https://github.com/closen39",
+    "author": "closen39",
+    "updated": "2013-01-12T14:59:37Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rusty",
+    "url": "https://github.com/martica",
+    "author": "martica",
+    "updated": "2013-02-12T06:40:45Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "n2e-gossamer",
+    "url": "https://github.com/drewis",
+    "author": "drewis",
+    "updated": "2013-03-25T18:35:30Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rustque",
+    "url": "https://github.com/steveklabnik",
+    "author": "steveklabnik",
+    "updated": "2013-09-11T16:01:18Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rupyed",
+    "url": "https://github.com/fread2281",
+    "author": "fread2281",
+    "updated": "2013-04-14T02:50:05Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-rbtree",
+    "url": "https://github.com/SPY",
+    "author": "SPY",
+    "updated": "2013-05-07T08:28:14Z",
+    "forks": 1,
+    "stars": 0
+  },
+  {
+    "name": "PlayingWithRust",
+    "url": "https://github.com/dwbcampbell",
+    "author": "dwbcampbell",
+    "updated": "2013-04-28T14:41:12Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "Guava",
+    "url": "https://github.com/Arelius",
+    "author": "Arelius",
+    "updated": "2013-06-25T21:21:39Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "ructf2013-queue",
+    "url": "https://github.com/alexbers",
+    "author": "alexbers",
+    "updated": "2013-04-22T14:13:04Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "test_pkg_version",
+    "url": "https://github.com/catamorphism",
+    "author": "catamorphism",
+    "updated": "2013-06-01T04:54:38Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "vector.rs",
+    "url": "https://github.com/jensnockert",
+    "author": "jensnockert",
+    "updated": "2013-06-15T22:16:19Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "cl.rs",
+    "url": "https://github.com/jensnockert",
+    "author": "jensnockert",
+    "updated": "2013-06-15T22:16:19Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "clinfo.rs",
+    "url": "https://github.com/jensnockert",
+    "author": "jensnockert",
+    "updated": "2013-06-15T22:16:19Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rusty-brainfuck",
+    "url": "https://github.com/SirSkidmore",
+    "author": "SirSkidmore",
+    "updated": "2013-06-04T16:49:25Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "learn-rust",
+    "url": "https://github.com/clcollins",
+    "author": "clcollins",
+    "updated": "2013-07-22T23:17:51Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-experiments",
+    "url": "https://github.com/danluu",
+    "author": "danluu",
+    "updated": "2013-04-28T17:25:19Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rustpkg-remote-test",
+    "url": "https://github.com/berleon",
+    "author": "berleon",
+    "updated": "2013-10-27T19:16:46Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-sandbox",
+    "url": "https://github.com/bobbyrward",
+    "author": "bobbyrward",
+    "updated": "2013-10-25T09:27:04Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "ncurses-rust",
+    "url": "https://github.com/doomsplayer",
+    "author": "doomsplayer",
+    "updated": "2013-10-26T22:10:26Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-gobject",
+    "url": "https://github.com/cadencemarseille",
+    "author": "cadencemarseille",
+    "updated": "2013-10-28T12:59:59Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "dotfiles",
+    "url": "https://github.com/jaeyoung",
+    "author": "jaeyoung",
+    "updated": "2013-10-24T11:10:33Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "Schint",
+    "url": "https://github.com/burtonageo",
+    "author": "burtonageo",
+    "updated": "2013-10-24T12:24:38Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-gzip",
+    "url": "https://github.com/vincasmiliunas",
+    "author": "vincasmiliunas",
+    "updated": "2013-10-25T10:27:02Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "syn-sc",
+    "url": "https://github.com/syn-platform",
+    "author": "syn-platform",
+    "updated": "2013-10-25T16:06:50Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "misc",
+    "url": "https://github.com/bcorrigan",
+    "author": "bcorrigan",
+    "updated": "2013-10-29T21:28:40Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "sigil-syntax",
+    "url": "https://github.com/pnkfelix",
+    "author": "pnkfelix",
+    "updated": "2013-10-30T05:26:30Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-playground",
+    "url": "https://github.com/ttaubert",
+    "author": "ttaubert",
+    "updated": "2013-10-30T00:18:28Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-example",
+    "url": "https://github.com/buster",
+    "author": "buster",
+    "updated": "2013-10-30T14:39:49Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-euler",
+    "url": "https://github.com/nibrahim",
+    "author": "nibrahim",
+    "updated": "2013-11-04T07:54:23Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-yaml",
+    "url": "https://github.com/Stibbons",
+    "author": "Stibbons",
+    "updated": "2013-11-01T09:55:01Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rpkgtest",
+    "url": "https://github.com/thewonderidiot",
+    "author": "thewonderidiot",
+    "updated": "2013-11-03T21:58:34Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rHorde",
+    "url": "https://github.com/MaikKlein",
+    "author": "MaikKlein",
+    "updated": "2013-10-30T17:00:57Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "draper",
+    "url": "https://github.com/thewonderidiot",
+    "author": "thewonderidiot",
+    "updated": "2013-11-02T21:28:13Z",
+    "forks": 1,
+    "stars": 0
+  },
+  {
+    "name": "rogueish",
+    "url": "https://github.com/acolley",
+    "author": "acolley",
+    "updated": "2013-11-02T08:33:40Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "hello",
+    "url": "https://github.com/albx79",
+    "author": "albx79",
+    "updated": "2013-10-27T17:57:30Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-rand",
+    "url": "https://github.com/huonw",
+    "author": "huonw",
+    "updated": "2013-10-25T04:47:33Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "Rosalind-in-Rust",
+    "url": "https://github.com/skylerberg",
+    "author": "skylerberg",
+    "updated": "2013-10-25T05:57:41Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-lessons",
+    "url": "https://github.com/jeslyvarghese",
+    "author": "jeslyvarghese",
+    "updated": "2013-10-25T03:57:57Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "perftest-rust",
+    "url": "https://github.com/stepancheg",
+    "author": "stepancheg",
+    "updated": "2013-10-28T18:35:27Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "pjl-funlang",
+    "url": "https://github.com/basic82",
+    "author": "basic82",
+    "updated": "2013-11-06T22:02:41Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-fractal",
+    "url": "https://github.com/Ogeon",
+    "author": "Ogeon",
+    "updated": "2013-11-07T01:43:14Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-wav",
+    "url": "https://github.com/sethhochberg",
+    "author": "sethhochberg",
+    "updated": "2013-11-07T00:55:52Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-geohash",
+    "url": "https://github.com/nullstyle",
+    "author": "nullstyle",
+    "updated": "2013-11-07T09:40:33Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-sdl_gfx",
+    "url": "https://github.com/AngryLawyer",
+    "author": "AngryLawyer",
+    "updated": "2013-10-20T07:33:56Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-expat",
+    "url": "https://github.com/pascalj",
+    "author": "pascalj",
+    "updated": "2013-10-17T13:56:34Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "amf.rs",
+    "url": "https://github.com/jarod",
+    "author": "jarod",
+    "updated": "2013-10-18T07:18:34Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust",
+    "url": "https://github.com/jxv",
+    "author": "jxv",
+    "updated": "2013-10-21T05:50:28Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-scratch",
+    "url": "https://github.com/eholk",
+    "author": "eholk",
+    "updated": "2013-10-15T22:04:46Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "tsukihi",
+    "url": "https://github.com/klutzy",
+    "author": "klutzy",
+    "updated": "2013-10-15T04:56:13Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-snappy",
+    "url": "https://github.com/noj",
+    "author": "noj",
+    "updated": "2013-10-15T20:47:55Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-metadata-dump",
+    "url": "https://github.com/slaren",
+    "author": "slaren",
+    "updated": "2013-10-13T08:07:05Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust_start",
+    "url": "https://github.com/marti1125",
+    "author": "marti1125",
+    "updated": "2013-10-16T17:31:17Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-snippets",
+    "url": "https://github.com/influenza",
+    "author": "influenza",
+    "updated": "2013-10-16T08:02:45Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "potnia",
+    "url": "https://github.com/zokier",
+    "author": "zokier",
+    "updated": "2013-10-16T15:50:39Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-digest",
+    "url": "https://github.com/alco",
+    "author": "alco",
+    "updated": "2013-10-16T18:22:06Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "deadlock",
+    "url": "https://github.com/NSkelsey",
+    "author": "NSkelsey",
+    "updated": "2013-10-16T21:55:42Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "cs4414-ps1",
+    "url": "https://github.com/aml3",
+    "author": "aml3",
+    "updated": "2013-10-17T19:45:38Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-glob",
+    "url": "https://github.com/doy",
+    "author": "doy",
+    "updated": "2013-10-17T22:22:08Z",
+    "forks": 1,
+    "stars": 0
+  },
+  {
+    "name": "rust-game",
+    "url": "https://github.com/Nehmulos",
+    "author": "Nehmulos",
+    "updated": "2013-10-17T17:39:06Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-test",
+    "url": "https://github.com/mikeplavsky",
+    "author": "mikeplavsky",
+    "updated": "2013-10-19T10:19:29Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "ios-bus",
+    "url": "https://github.com/tsangint",
+    "author": "tsangint",
+    "updated": "2013-10-22T14:41:51Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "beamwand",
+    "url": "https://github.com/indutny",
+    "author": "indutny",
+    "updated": "2013-10-23T08:13:32Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "ehouse-ios",
+    "url": "https://github.com/kenlist",
+    "author": "kenlist",
+    "updated": "2013-10-22T12:39:56Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-json",
+    "url": "https://github.com/erickt",
+    "author": "erickt",
+    "updated": "2013-10-23T13:55:56Z",
+    "forks": 1,
+    "stars": 0
+  },
+  {
+    "name": "hellorustlang",
+    "url": "https://github.com/pcdinh",
+    "author": "pcdinh",
+    "updated": "2013-10-13T02:53:57Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "dining_philosophers",
+    "url": "https://github.com/jstevans",
+    "author": "jstevans",
+    "updated": "2013-10-12T06:59:45Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-rants",
+    "url": "https://github.com/alejandro",
+    "author": "alejandro",
+    "updated": "2013-10-14T04:35:40Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rustjack",
+    "url": "https://github.com/mneudert",
+    "author": "mneudert",
+    "updated": "2013-10-14T19:41:23Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "cs4414-mt",
+    "url": "https://github.com/btwright",
+    "author": "btwright",
+    "updated": "2013-10-14T18:23:40Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-sched-bench",
+    "url": "https://github.com/brson",
+    "author": "brson",
+    "updated": "2013-10-12T09:46:39Z",
+    "forks": 1,
+    "stars": 0
+  },
+  {
+    "name": "1171",
+    "url": "https://github.com/aml3",
+    "author": "aml3",
+    "updated": "2013-10-14T22:45:38Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "squiggle",
+    "url": "https://github.com/metajack",
+    "author": "metajack",
+    "updated": "2013-10-23T07:42:01Z",
+    "forks": 1,
+    "stars": 0
+  },
+  {
+    "name": "curiosity-rs",
+    "url": "https://github.com/KokaKiwi",
+    "author": "KokaKiwi",
+    "updated": "2013-11-07T11:53:58Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-torrent",
+    "url": "https://github.com/jimrollenhagen",
+    "author": "jimrollenhagen",
+    "updated": "2013-11-07T14:05:39Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "Example",
+    "url": "https://github.com/chenqihui",
+    "author": "chenqihui",
+    "updated": "2013-11-08T09:31:27Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "typing-haskell-in-rust",
+    "url": "https://github.com/nikomatsakis",
+    "author": "nikomatsakis",
+    "updated": "2013-11-10T02:54:36Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "hdr_software_stabilization",
+    "url": "https://github.com/fallgold",
+    "author": "fallgold",
+    "updated": "2013-11-14T08:48:33Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "SmartParking",
+    "url": "https://github.com/yangyangduo",
+    "author": "yangyangduo",
+    "updated": "2013-11-12T06:38:56Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-demos",
+    "url": "https://github.com/willingc",
+    "author": "willingc",
+    "updated": "2013-11-12T16:00:29Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "moss",
+    "url": "https://github.com/coredump-ch",
+    "author": "coredump-ch",
+    "updated": "2013-11-26T20:51:44Z",
+    "forks": 1,
+    "stars": 0
+  },
+  {
+    "name": "rusti-ng",
+    "url": "https://github.com/mrordinaire",
+    "author": "mrordinaire",
+    "updated": "2013-11-25T01:01:11Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rustcg",
+    "url": "https://github.com/Ignotus",
+    "author": "Ignotus",
+    "updated": "2013-11-17T13:16:17Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "math",
+    "url": "https://github.com/timt51",
+    "author": "timt51",
+    "updated": "2013-11-17T23:04:27Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "Duffy",
+    "url": "https://github.com/paul-meier",
+    "author": "paul-meier",
+    "updated": "2013-11-18T06:30:44Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-http-client",
+    "url": "https://github.com/rofrol",
+    "author": "rofrol",
+    "updated": "2013-11-19T11:57:37Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-lifetime",
+    "url": "https://github.com/rofrol",
+    "author": "rofrol",
+    "updated": "2013-11-19T13:06:20Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-regex2",
+    "url": "https://github.com/jedisct1",
+    "author": "jedisct1",
+    "updated": "2013-11-21T23:12:47Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "bobobib",
+    "url": "https://github.com/joris-r",
+    "author": "joris-r",
+    "updated": "2013-11-24T22:32:14Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "fizzbuzz-in-rust",
+    "url": "https://github.com/baumandm",
+    "author": "baumandm",
+    "updated": "2013-11-16T18:09:52Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "benbenTaxi",
+    "url": "https://github.com/jesical516",
+    "author": "jesical516",
+    "updated": "2013-11-20T02:48:28Z",
+    "forks": 1,
+    "stars": 0
+  },
+  {
+    "name": "rust-alert",
+    "url": "https://github.com/mozilla-servo",
+    "author": "mozilla-servo",
+    "updated": "2013-11-19T21:02:08Z",
+    "forks": 8,
+    "stars": 0
+  },
+  {
+    "name": "baiduMap",
+    "url": "https://github.com/caijianwei",
+    "author": "caijianwei",
+    "updated": "2013-11-15T06:23:51Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-hello-ffi",
+    "url": "https://github.com/alexcrichton",
+    "author": "alexcrichton",
+    "updated": "2013-11-16T05:16:31Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-urlparse",
+    "url": "https://github.com/Stibbons",
+    "author": "Stibbons",
+    "updated": "2013-11-16T23:11:14Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-code",
+    "url": "https://github.com/naudo",
+    "author": "naudo",
+    "updated": "2013-11-16T21:28:30Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "t66y",
+    "url": "https://github.com/said9999",
+    "author": "said9999",
+    "updated": "2013-11-18T17:35:01Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-tmpdir",
+    "url": "https://github.com/rofrol",
+    "author": "rofrol",
+    "updated": "2013-11-18T19:09:36Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rtun",
+    "url": "https://github.com/zaichatki",
+    "author": "zaichatki",
+    "updated": "2013-11-18T14:55:37Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-use-sqlite",
+    "url": "https://github.com/rofrol",
+    "author": "rofrol",
+    "updated": "2013-11-18T18:28:49Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "EulerRust",
+    "url": "https://github.com/TisButMe",
+    "author": "TisButMe",
+    "updated": "2013-11-19T18:19:48Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "MyPractice",
+    "url": "https://github.com/iven",
+    "author": "iven",
+    "updated": "2013-11-28T13:58:33Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-off",
+    "url": "https://github.com/jbcorwin",
+    "author": "jbcorwin",
+    "updated": "2013-03-29T19:39:30Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-hello-gl",
+    "url": "https://github.com/robn",
+    "author": "robn",
+    "updated": "2013-04-13T02:30:42Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "comprsr_test",
+    "url": "https://github.com/honzasp",
+    "author": "honzasp",
+    "updated": "2013-08-11T06:57:54Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "fraction-rust",
+    "url": "https://github.com/doomsplayer",
+    "author": "doomsplayer",
+    "updated": "2013-07-01T11:41:12Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-math",
+    "url": "https://github.com/bjackson",
+    "author": "bjackson",
+    "updated": "2013-06-18T02:15:37Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-bloom",
+    "url": "https://github.com/dcolish",
+    "author": "dcolish",
+    "updated": "2013-08-10T02:52:48Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "progproj",
+    "url": "https://github.com/hugo-dube",
+    "author": "hugo-dube",
+    "updated": "2013-07-25T20:39:32Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-python",
+    "url": "https://github.com/fread2281",
+    "author": "fread2281",
+    "updated": "2013-07-16T20:21:45Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "crypto.rs",
+    "url": "https://github.com/jensnockert",
+    "author": "jensnockert",
+    "updated": "2013-07-07T23:56:51Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "plovdivconf-presentation-2013",
+    "url": "https://github.com/ignisf",
+    "author": "ignisf",
+    "updated": "2013-07-07T21:08:21Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "BaiduMapTest",
+    "url": "https://github.com/helloworld116",
+    "author": "helloworld116",
+    "updated": "2013-08-23T12:51:19Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "euler",
+    "url": "https://github.com/adridu59",
+    "author": "adridu59",
+    "updated": "2013-09-02T15:43:24Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "metamath-tools",
+    "url": "https://github.com/dckc",
+    "author": "dckc",
+    "updated": "2013-08-24T02:08:47Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-ide-rust",
+    "url": "https://github.com/stepancheg",
+    "author": "stepancheg",
+    "updated": "2013-08-18T18:18:19Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "Tourism",
+    "url": "https://github.com/Terry1011",
+    "author": "Terry1011",
+    "updated": "2013-08-22T15:46:11Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-examples",
+    "url": "https://github.com/t20",
+    "author": "t20",
+    "updated": "2013-08-11T20:20:45Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "Rust-Learning-Game",
+    "url": "https://github.com/MaikKlein",
+    "author": "MaikKlein",
+    "updated": "2013-08-11T07:26:56Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "numbers-rust",
+    "url": "https://github.com/panzi",
+    "author": "panzi",
+    "updated": "2013-09-02T21:43:25Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "cs4414-ps1",
+    "url": "https://github.com/cs4414uva",
+    "author": "cs4414uva",
+    "updated": "2013-09-12T20:19:23Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "EventEmitter",
+    "url": "https://github.com/Inspiravetion",
+    "author": "Inspiravetion",
+    "updated": "2013-06-25T22:56:32Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "ParkSystem",
+    "url": "https://github.com/justzt",
+    "author": "justzt",
+    "updated": "2013-06-13T06:47:30Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "FootPrint",
+    "url": "https://github.com/zhao19880827",
+    "author": "zhao19880827",
+    "updated": "2013-08-07T15:25:30Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rustpkgtest1",
+    "url": "https://github.com/brson",
+    "author": "brson",
+    "updated": "2013-08-21T05:01:18Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rustbinarysearch",
+    "url": "https://github.com/duckmatt",
+    "author": "duckmatt",
+    "updated": "2013-07-22T21:11:31Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rts",
+    "url": "https://github.com/didje",
+    "author": "didje",
+    "updated": "2013-09-15T12:35:12Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "ruby.rs",
+    "url": "https://github.com/steveklabnik",
+    "author": "steveklabnik",
+    "updated": "2013-09-16T02:32:36Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "llvm-test-9129",
+    "url": "https://github.com/pnkfelix",
+    "author": "pnkfelix",
+    "updated": "2013-09-17T02:52:19Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "allegrust",
+    "url": "https://github.com/MarkJr94",
+    "author": "MarkJr94",
+    "updated": "2013-09-15T04:20:26Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-cee",
+    "url": "https://github.com/itdaniher",
+    "author": "itdaniher",
+    "updated": "2013-09-04T02:42:38Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "cs4414-ps1",
+    "url": "https://github.com/NSkelsey",
+    "author": "NSkelsey",
+    "updated": "2013-09-11T03:02:59Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rusque",
+    "url": "https://github.com/jsanders",
+    "author": "jsanders",
+    "updated": "2013-10-03T17:39:22Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "platform_device_lg_swift",
+    "url": "https://github.com/thekraven2",
+    "author": "thekraven2",
+    "updated": "2013-10-04T00:27:24Z",
+    "forks": 4,
+    "stars": 0
+  },
+  {
+    "name": "rustbot",
+    "url": "https://github.com/joelteon",
+    "author": "joelteon",
+    "updated": "2013-10-03T22:49:57Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "HelloRust",
+    "url": "https://github.com/kmckee",
+    "author": "kmckee",
+    "updated": "2013-10-04T05:25:11Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "scrabbli-rust",
+    "url": "https://github.com/thenickperson",
+    "author": "thenickperson",
+    "updated": "2013-10-01T00:14:55Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "patina",
+    "url": "https://github.com/cretz",
+    "author": "cretz",
+    "updated": "2013-10-01T03:12:50Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-challenge",
+    "url": "https://github.com/sota0805",
+    "author": "sota0805",
+    "updated": "2013-10-01T03:58:01Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "ps2",
+    "url": "https://github.com/cs4414",
+    "author": "cs4414",
+    "updated": "2013-10-02T18:10:26Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "retf",
+    "url": "https://github.com/LeebDeveloper",
+    "author": "LeebDeveloper",
+    "updated": "2013-09-23T20:53:35Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-signal",
+    "url": "https://github.com/cmr",
+    "author": "cmr",
+    "updated": "2013-09-24T21:31:18Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rftest",
+    "url": "https://github.com/dobkeratops",
+    "author": "dobkeratops",
+    "updated": "2013-09-24T22:39:48Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-grapheme",
+    "url": "https://github.com/sbillig",
+    "author": "sbillig",
+    "updated": "2013-10-01T13:40:46Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "skybox-gen",
+    "url": "https://github.com/tiffany352",
+    "author": "tiffany352",
+    "updated": "2013-09-28T00:58:41Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-sdl2-playground",
+    "url": "https://github.com/AngryLawyer",
+    "author": "AngryLawyer",
+    "updated": "2013-09-22T12:12:41Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "astro-rust",
+    "url": "https://github.com/seanrivera",
+    "author": "seanrivera",
+    "updated": "2013-09-24T17:17:41Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "url",
+    "url": "https://github.com/cmr",
+    "author": "cmr",
+    "updated": "2013-09-30T01:46:01Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "example.rs",
+    "url": "https://github.com/fabiand",
+    "author": "fabiand",
+    "updated": "2013-09-29T20:02:36Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "CMPE-187",
+    "url": "https://github.com/gregsqueeb",
+    "author": "gregsqueeb",
+    "updated": "2013-09-30T06:12:56Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "learnrust",
+    "url": "https://github.com/shaladdle",
+    "author": "shaladdle",
+    "updated": "2013-09-29T07:12:27Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust_examples",
+    "url": "https://github.com/EricMCornelius",
+    "author": "EricMCornelius",
+    "updated": "2013-09-29T01:43:44Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-bitfifo",
+    "url": "https://github.com/nejucomo",
+    "author": "nejucomo",
+    "updated": "2013-09-29T00:34:53Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-tutorial",
+    "url": "https://github.com/r542809120",
+    "author": "r542809120",
+    "updated": "2013-09-27T15:20:30Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "chazbot",
+    "url": "https://github.com/tikue",
+    "author": "tikue",
+    "updated": "2013-10-06T19:47:22Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "RustCryptoTester",
+    "url": "https://github.com/DaGenix",
+    "author": "DaGenix",
+    "updated": "2013-10-07T05:40:10Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "glpk-rs",
+    "url": "https://github.com/sebcrozet",
+    "author": "sebcrozet",
+    "updated": "2013-10-07T08:15:25Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-todo",
+    "url": "https://github.com/nielsegberts",
+    "author": "nielsegberts",
+    "updated": "2013-10-05T02:40:59Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "oxide",
+    "url": "https://github.com/robn",
+    "author": "robn",
+    "updated": "2013-10-06T21:46:04Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "Rust-Exercise",
+    "url": "https://github.com/kakkun61",
+    "author": "kakkun61",
+    "updated": "2013-10-08T14:01:59Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "paws.rs",
+    "url": "https://github.com/micahjohnston",
+    "author": "micahjohnston",
+    "updated": "2013-10-08T15:47:26Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rustci-test-project",
+    "url": "https://github.com/hansjorg",
+    "author": "hansjorg",
+    "updated": "2013-10-11T14:24:14Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "spellck",
+    "url": "https://github.com/huonw",
+    "author": "huonw",
+    "updated": "2013-12-03T11:49:35Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-httpparser",
+    "url": "https://github.com/echaozh",
+    "author": "echaozh",
+    "updated": "2013-11-30T07:20:09Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-rtlsdr",
+    "url": "https://github.com/itdaniher",
+    "author": "itdaniher",
+    "updated": "2013-11-30T15:54:44Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-taglib",
+    "url": "https://github.com/snowkeep",
+    "author": "snowkeep",
+    "updated": "2013-12-03T03:09:22Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "BaiduMap",
+    "url": "https://github.com/carlosk",
+    "author": "carlosk",
+    "updated": "2013-12-04T10:06:35Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "qup",
+    "url": "https://github.com/rninty",
+    "author": "rninty",
+    "updated": "2013-12-01T20:38:39Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "typeset.rs",
+    "url": "https://github.com/bramstein",
+    "author": "bramstein",
+    "updated": "2013-12-01T01:01:32Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-stem",
+    "url": "https://github.com/mrordinaire",
+    "author": "mrordinaire",
+    "updated": "2013-11-30T08:56:56Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "platformer",
+    "url": "https://github.com/brendonjustin",
+    "author": "brendonjustin",
+    "updated": "2013-12-02T01:23:52Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust",
+    "url": "https://github.com/Recodr",
+    "author": "Recodr",
+    "updated": "2013-12-04T18:16:04Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rs-splay",
+    "url": "https://github.com/alexcrichton",
+    "author": "alexcrichton",
+    "updated": "2013-12-04T16:06:25Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "hello",
+    "url": "https://github.com/Locke23rus",
+    "author": "Locke23rus",
+    "updated": "2013-12-09T20:17:03Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "minmaxheap",
+    "url": "https://github.com/jfager",
+    "author": "jfager",
+    "updated": "2013-12-09T23:12:50Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust_codes",
+    "url": "https://github.com/rajul-iitkgp",
+    "author": "rajul-iitkgp",
+    "updated": "2013-12-10T04:14:09Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rgraph",
+    "url": "https://github.com/JeremyLetang",
+    "author": "JeremyLetang",
+    "updated": "2013-12-12T03:39:50Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust_examples",
+    "url": "https://github.com/dangets",
+    "author": "dangets",
+    "updated": "2013-12-12T20:05:46Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "CS4414Project",
+    "url": "https://github.com/zhouyuan878",
+    "author": "zhouyuan878",
+    "updated": "2013-12-12T20:33:00Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rusty-lumps",
+    "url": "https://github.com/TomRegan",
+    "author": "TomRegan",
+    "updated": "2013-12-11T15:31:12Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "libhttpd",
+    "url": "https://github.com/WebeWizard",
+    "author": "WebeWizard",
+    "updated": "2013-12-12T08:22:00Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rustTracks",
+    "url": "https://github.com/Blei",
+    "author": "Blei",
+    "updated": "2013-12-13T14:25:58Z",
+    "forks": 1,
+    "stars": 0
+  },
+  {
+    "name": "tilda",
+    "url": "https://github.com/redbrain",
+    "author": "redbrain",
+    "updated": "2013-12-13T13:34:59Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "simplebackdoor",
+    "url": "https://github.com/cem8u",
+    "author": "cem8u",
+    "updated": "2013-12-13T01:24:56Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-sift",
+    "url": "https://github.com/jhermsmeier",
+    "author": "jhermsmeier",
+    "updated": "2013-12-13T02:21:15Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-peg",
+    "url": "https://github.com/akuendig",
+    "author": "akuendig",
+    "updated": "2013-12-05T21:37:00Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "baiduMap",
+    "url": "https://github.com/jianqiang-411",
+    "author": "jianqiang-411",
+    "updated": "2013-12-06T01:00:03Z",
+    "forks": 1,
+    "stars": 0
+  },
+  {
+    "name": "rust-url",
+    "url": "https://github.com/SimonSapin",
+    "author": "SimonSapin",
+    "updated": "2013-12-06T13:22:51Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "hangar",
+    "url": "https://github.com/nutsi",
+    "author": "nutsi",
+    "updated": "2013-12-07T11:51:43Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-study",
+    "url": "https://github.com/jugglinmike",
+    "author": "jugglinmike",
+    "updated": "2013-12-07T04:57:31Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-lzma",
+    "url": "https://github.com/dguenther",
+    "author": "dguenther",
+    "updated": "2013-12-07T03:04:52Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "regex-rust-file",
+    "url": "https://github.com/devin909",
+    "author": "devin909",
+    "updated": "2013-12-07T13:34:57Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "cs4414-ps3",
+    "url": "https://github.com/Jasdev",
+    "author": "Jasdev",
+    "updated": "2013-12-10T20:54:33Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "cs4414-ps4",
+    "url": "https://github.com/aqyblitz",
+    "author": "aqyblitz",
+    "updated": "2013-12-08T20:54:19Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "btc-rs",
+    "url": "https://github.com/kyphelps",
+    "author": "kyphelps",
+    "updated": "2013-12-08T21:42:21Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rspt",
+    "url": "https://github.com/cyndis",
+    "author": "cyndis",
+    "updated": "2013-12-14T08:47:38Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-fingertrees",
+    "url": "https://github.com/rntz",
+    "author": "rntz",
+    "updated": "2013-12-16T04:19:46Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rustpkgs",
+    "url": "https://github.com/colemickens",
+    "author": "colemickens",
+    "updated": "2013-12-16T09:45:44Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "learnrusttheway",
+    "url": "https://github.com/gdey",
+    "author": "gdey",
+    "updated": "2013-12-16T00:24:33Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "sdl2-rs",
+    "url": "https://github.com/steffenomak",
+    "author": "steffenomak",
+    "updated": "2013-12-16T01:39:10Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "gooey",
+    "url": "https://github.com/jdm",
+    "author": "jdm",
+    "updated": "2013-12-13T22:37:31Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "PM250",
+    "url": "https://github.com/WayneWeiZhang",
+    "author": "WayneWeiZhang",
+    "updated": "2013-12-14T15:31:20Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "parus",
+    "url": "https://github.com/pnkfelix",
+    "author": "pnkfelix",
+    "updated": "2013-12-15T19:25:43Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-crypto-working",
+    "url": "https://github.com/DaGenix",
+    "author": "DaGenix",
+    "updated": "2013-12-16T21:02:10Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rusty-hammer",
+    "url": "https://github.com/skade",
+    "author": "skade",
+    "updated": "2013-12-16T14:39:38Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rosetta-rust",
+    "url": "https://github.com/dladuke",
+    "author": "dladuke",
+    "updated": "2013-12-14T05:13:52Z",
+    "forks": 1,
+    "stars": 0
+  },
+  {
+    "name": "beta_rust",
+    "url": "https://github.com/jmptable",
+    "author": "jmptable",
+    "updated": "2013-11-23T17:54:57Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "cs4414-ps1",
+    "url": "https://github.com/jya",
+    "author": "jya",
+    "updated": "2013-12-17T04:08:04Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "secret-santa",
+    "url": "https://github.com/lheadden",
+    "author": "lheadden",
+    "updated": "2013-12-17T14:28:10Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rshell",
+    "url": "https://github.com/juszczakn",
+    "author": "juszczakn",
+    "updated": "2013-12-19T19:45:39Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-learning",
+    "url": "https://github.com/valenting",
+    "author": "valenting",
+    "updated": "2013-12-17T16:11:46Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "retina",
+    "url": "https://github.com/lfairy",
+    "author": "lfairy",
+    "updated": "2013-12-17T21:51:23Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "pcapfe",
+    "url": "https://github.com/colemickens",
+    "author": "colemickens",
+    "updated": "2013-12-19T10:26:36Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "mediaplayer",
+    "url": "https://github.com/mewlips",
+    "author": "mewlips",
+    "updated": "2013-12-19T08:58:05Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-windows",
+    "url": "https://github.com/klutzy",
+    "author": "klutzy",
+    "updated": "2013-12-19T08:39:53Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "fizzbuzz",
+    "url": "https://github.com/cladam",
+    "author": "cladam",
+    "updated": "2013-12-19T21:56:36Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rustchip",
+    "url": "https://github.com/dguenther",
+    "author": "dguenther",
+    "updated": "2013-12-19T21:36:30Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-doctest",
+    "url": "https://github.com/hansjorg",
+    "author": "hansjorg",
+    "updated": "2013-12-19T21:34:39Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "buffoon",
+    "url": "https://github.com/tildeio",
+    "author": "tildeio",
+    "updated": "2013-12-20T03:26:02Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-progs",
+    "url": "https://github.com/shlomif",
+    "author": "shlomif",
+    "updated": "2013-12-06T14:47:36Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "reddit",
+    "url": "https://github.com/MarkJr94",
+    "author": "MarkJr94",
+    "updated": "2013-12-20T05:02:24Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "php",
+    "url": "https://github.com/davidnkmylose",
+    "author": "davidnkmylose",
+    "updated": "2013-01-16T03:27:12Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-math",
+    "url": "https://github.com/derekdreery",
+    "author": "derekdreery",
+    "updated": "2013-04-09T11:54:42Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "adt-1.7",
+    "url": "https://github.com/kennytm",
+    "author": "kennytm",
+    "updated": "2013-01-13T19:40:03Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "servo-gfx",
+    "url": "https://github.com/webconvforge",
+    "author": "webconvforge",
+    "updated": "2013-04-05T04:25:47Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-stuff",
+    "url": "https://github.com/zsparks",
+    "author": "zsparks",
+    "updated": "2013-01-14T01:02:11Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "lil_server",
+    "url": "https://github.com/danoctavian",
+    "author": "danoctavian",
+    "updated": "2013-07-22T22:03:22Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rustforruby",
+    "url": "https://github.com/fishman",
+    "author": "fishman",
+    "updated": "2013-02-20T04:32:06Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-utils",
+    "url": "https://github.com/wting",
+    "author": "wting",
+    "updated": "2013-04-09T12:53:22Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "PerkQuake",
+    "url": "https://github.com/tinydanbo",
+    "author": "tinydanbo",
+    "updated": "2013-06-15T21:22:09Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "your_tea_buddy",
+    "url": "https://github.com/kyrylo",
+    "author": "kyrylo",
+    "updated": "2012-12-31T15:36:06Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "algorithm-review",
+    "url": "https://github.com/sesteel",
+    "author": "sesteel",
+    "updated": "2013-04-11T06:04:29Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "fileinput",
+    "url": "https://github.com/huonw",
+    "author": "huonw",
+    "updated": "2013-10-25T21:31:15Z",
+    "forks": 2,
+    "stars": 0
+  },
+  {
+    "name": "rust-codecs",
+    "url": "https://github.com/haard",
+    "author": "haard",
+    "updated": "2013-10-25T10:13:36Z",
+    "forks": 1,
+    "stars": 0
+  },
+  {
+    "name": "cupcake",
+    "url": "https://github.com/sconger",
+    "author": "sconger",
+    "updated": "2013-10-27T21:52:22Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust_todo",
+    "url": "https://github.com/Detegr",
+    "author": "Detegr",
+    "updated": "2013-10-29T14:53:00Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-netlab",
+    "url": "https://github.com/flaub",
+    "author": "flaub",
+    "updated": "2013-10-31T01:08:19Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust_scrapyard",
+    "url": "https://github.com/pnamasondhi",
+    "author": "pnamasondhi",
+    "updated": "2013-10-21T18:01:46Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "geneteq",
+    "url": "https://github.com/PerArneng",
+    "author": "PerArneng",
+    "updated": "2013-10-22T10:00:16Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-euler",
+    "url": "https://github.com/bickfordb",
+    "author": "bickfordb",
+    "updated": "2013-10-21T15:45:55Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rustuff",
+    "url": "https://github.com/mikezaby",
+    "author": "mikezaby",
+    "updated": "2013-10-21T22:02:08Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "ps3",
+    "url": "https://github.com/cs4414",
+    "author": "cs4414",
+    "updated": "2013-10-23T19:55:08Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-samples",
+    "url": "https://github.com/wakandan",
+    "author": "wakandan",
+    "updated": "2013-09-25T15:28:06Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "pgybs",
+    "url": "https://github.com/pnkfelix",
+    "author": "pnkfelix",
+    "updated": "2013-09-30T00:35:22Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "stuff",
+    "url": "https://github.com/steveklabnik",
+    "author": "steveklabnik",
+    "updated": "2013-09-30T08:09:14Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "redis",
+    "url": "https://github.com/steveklabnik",
+    "author": "steveklabnik",
+    "updated": "2013-09-29T15:41:37Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "hello",
+    "url": "https://github.com/steveklabnik",
+    "author": "steveklabnik",
+    "updated": "2013-10-01T03:28:20Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-toys",
+    "url": "https://github.com/martine",
+    "author": "martine",
+    "updated": "2013-10-01T08:08:46Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "linguaphone",
+    "url": "https://github.com/Zorbash",
+    "author": "Zorbash",
+    "updated": "2013-10-01T20:08:57Z",
+    "forks": 1,
+    "stars": 0
+  },
+  {
+    "name": "rsprotobuf",
+    "url": "https://github.com/duane",
+    "author": "duane",
+    "updated": "2013-10-27T08:24:36Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "zip",
+    "url": "https://github.com/slackito",
+    "author": "slackito",
+    "updated": "2013-10-28T20:25:21Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust_scratch",
+    "url": "https://github.com/jchinlee",
+    "author": "jchinlee",
+    "updated": "2013-10-31T23:30:35Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-experiments",
+    "url": "https://github.com/mansam",
+    "author": "mansam",
+    "updated": "2013-04-25T04:35:05Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-pgen",
+    "url": "https://github.com/thomaslee",
+    "author": "thomaslee",
+    "updated": "2013-06-02T22:48:14Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "srceror",
+    "url": "https://github.com/longstorm",
+    "author": "longstorm",
+    "updated": "2013-05-10T15:58:47Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust_number_guessing",
+    "url": "https://github.com/qxjit",
+    "author": "qxjit",
+    "updated": "2013-04-09T13:08:48Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "clockworkmod_galaxysl",
+    "url": "https://github.com/ths-backup",
+    "author": "ths-backup",
+    "updated": "2013-07-03T06:00:37Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rusty_feds",
+    "url": "https://github.com/MarkJr94",
+    "author": "MarkJr94",
+    "updated": "2013-07-02T16:05:43Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "ratcher",
+    "url": "https://github.com/judofyr",
+    "author": "judofyr",
+    "updated": "2013-05-28T20:07:04Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rascal",
+    "url": "https://github.com/wmatyjewicz",
+    "author": "wmatyjewicz",
+    "updated": "2013-05-22T18:40:09Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "hellorust",
+    "url": "https://github.com/smadhueagle",
+    "author": "smadhueagle",
+    "updated": "2013-05-06T08:22:41Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rustlife",
+    "url": "https://github.com/nrhtr",
+    "author": "nrhtr",
+    "updated": "2013-06-04T09:53:17Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "sha256-rust",
+    "url": "https://github.com/rkbodenner",
+    "author": "rkbodenner",
+    "updated": "2013-06-01T20:50:33Z",
+    "forks": 1,
+    "stars": 0
+  },
+  {
+    "name": "queuebotv2",
+    "url": "https://github.com/cmr",
+    "author": "cmr",
+    "updated": "2013-11-07T06:15:17Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "raspy",
+    "url": "https://github.com/redbrain",
+    "author": "redbrain",
+    "updated": "2013-11-11T22:32:48Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-playground",
+    "url": "https://github.com/antisvin",
+    "author": "antisvin",
+    "updated": "2013-11-12T07:47:39Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "hm-rs",
+    "url": "https://github.com/toroidal-code",
+    "author": "toroidal-code",
+    "updated": "2013-11-12T06:21:35Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "automata.rs",
+    "url": "https://github.com/calvinmetcalf",
+    "author": "calvinmetcalf",
+    "updated": "2013-11-13T18:32:06Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "BaiduMap",
+    "url": "https://github.com/azaxas128",
+    "author": "azaxas128",
+    "updated": "2013-11-03T04:08:50Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "hallo",
+    "url": "https://github.com/giganteous",
+    "author": "giganteous",
+    "updated": "2013-11-03T21:54:35Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rcsv",
+    "url": "https://github.com/igor-petruk",
+    "author": "igor-petruk",
+    "updated": "2013-11-03T17:03:29Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-projects",
+    "url": "https://github.com/niftynif",
+    "author": "niftynif",
+    "updated": "2013-11-02T22:47:53Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rusty",
+    "url": "https://github.com/maxsnew",
+    "author": "maxsnew",
+    "updated": "2013-11-06T03:23:44Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-playground",
+    "url": "https://github.com/vu3rdd",
+    "author": "vu3rdd",
+    "updated": "2013-11-05T10:07:33Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "numeric-rs",
+    "url": "https://github.com/brianheylin",
+    "author": "brianheylin",
+    "updated": "2013-11-21T23:11:49Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "bzip2rs",
+    "url": "https://github.com/MarkJr94",
+    "author": "MarkJr94",
+    "updated": "2013-11-21T01:50:42Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-hello",
+    "url": "https://github.com/rofrol",
+    "author": "rofrol",
+    "updated": "2013-11-18T18:41:04Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-examples",
+    "url": "https://github.com/rofrol",
+    "author": "rofrol",
+    "updated": "2013-11-20T00:32:12Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-string",
+    "url": "https://github.com/Stibbons",
+    "author": "Stibbons",
+    "updated": "2013-11-21T12:25:50Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust_hello_world",
+    "url": "https://github.com/kipanshi",
+    "author": "kipanshi",
+    "updated": "2013-09-21T00:00:43Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-http-server",
+    "url": "https://github.com/leon-vv",
+    "author": "leon-vv",
+    "updated": "2013-09-21T13:58:50Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "heap-rs",
+    "url": "https://github.com/davbo",
+    "author": "davbo",
+    "updated": "2013-09-21T10:02:38Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rs2cl",
+    "url": "https://github.com/sebcrozet",
+    "author": "sebcrozet",
+    "updated": "2013-09-28T09:08:39Z",
+    "forks": 1,
+    "stars": 0
+  },
+  {
+    "name": "Things",
+    "url": "https://github.com/nightlifelover",
+    "author": "nightlifelover",
+    "updated": "2013-09-29T05:29:35Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "SLSR",
+    "url": "https://github.com/gifnksm",
+    "author": "gifnksm",
+    "updated": "2013-09-28T10:09:45Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "cgmath-rs",
+    "url": "https://github.com/brianheylin",
+    "author": "brianheylin",
+    "updated": "2013-09-28T14:16:41Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "pure-fun",
+    "url": "https://github.com/rusthub",
+    "author": "rusthub",
+    "updated": "2013-10-05T00:03:43Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "distrust",
+    "url": "https://github.com/thewonderidiot",
+    "author": "thewonderidiot",
+    "updated": "2013-10-08T03:54:55Z",
+    "forks": 1,
+    "stars": 0
+  },
+  {
+    "name": "rustKernelTimer",
+    "url": "https://github.com/wbthomason",
+    "author": "wbthomason",
+    "updated": "2013-10-08T05:24:23Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "testpkg",
+    "url": "https://github.com/tikue",
+    "author": "tikue",
+    "updated": "2013-10-06T02:24:44Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "frp-rust",
+    "url": "https://github.com/tiffany352",
+    "author": "tiffany352",
+    "updated": "2013-10-06T02:40:24Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "game-of-life.rust",
+    "url": "https://github.com/jbaldwin",
+    "author": "jbaldwin",
+    "updated": "2013-10-07T21:24:42Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rusticss",
+    "url": "https://github.com/jesseray",
+    "author": "jesseray",
+    "updated": "2013-10-08T02:56:08Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-aobench",
+    "url": "https://github.com/sharow",
+    "author": "sharow",
+    "updated": "2013-10-02T04:51:32Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "nxt-programs",
+    "url": "https://github.com/pakozm",
+    "author": "pakozm",
+    "updated": "2013-10-02T02:49:18Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "LampShade",
+    "url": "https://github.com/hakuch",
+    "author": "hakuch",
+    "updated": "2013-10-03T03:25:50Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-hiredis",
+    "url": "https://github.com/uasi",
+    "author": "uasi",
+    "updated": "2013-10-03T02:14:49Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "per",
+    "url": "https://github.com/amatus",
+    "author": "amatus",
+    "updated": "2013-10-05T19:46:05Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "redis-rust",
+    "url": "https://github.com/mark-burnett",
+    "author": "mark-burnett",
+    "updated": "2013-10-07T03:13:00Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "vertesaur-rust",
+    "url": "https://github.com/aarondandy",
+    "author": "aarondandy",
+    "updated": "2013-10-06T04:50:11Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "mutex_lockunlock_timer",
+    "url": "https://github.com/jstevans",
+    "author": "jstevans",
+    "updated": "2013-10-10T04:02:30Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-nbt",
+    "url": "https://github.com/mindcat",
+    "author": "mindcat",
+    "updated": "2013-10-10T13:37:24Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-magickwand",
+    "url": "https://github.com/dymk",
+    "author": "dymk",
+    "updated": "2013-10-10T15:29:10Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rustfiles",
+    "url": "https://github.com/btbytes",
+    "author": "btbytes",
+    "updated": "2013-10-10T04:11:56Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rusty",
+    "url": "https://github.com/carl-eastlund",
+    "author": "carl-eastlund",
+    "updated": "2013-10-15T05:20:45Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "cs4414-deadlock",
+    "url": "https://github.com/MisterAbc",
+    "author": "MisterAbc",
+    "updated": "2013-10-14T20:51:42Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-ml",
+    "url": "https://github.com/xasmx",
+    "author": "xasmx",
+    "updated": "2013-10-12T16:26:13Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "fashhashmap",
+    "url": "https://github.com/tmmcguire",
+    "author": "tmmcguire",
+    "updated": "2013-10-15T23:39:02Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-yelp",
+    "url": "https://github.com/pcwalton",
+    "author": "pcwalton",
+    "updated": "2013-10-17T23:12:44Z",
+    "forks": 1,
+    "stars": 0
+  },
+  {
+    "name": "rust-pulse-simple",
+    "url": "https://github.com/itdaniher",
+    "author": "itdaniher",
+    "updated": "2013-10-18T03:13:45Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-regex",
+    "url": "https://github.com/StrLght",
+    "author": "StrLght",
+    "updated": "2013-10-16T18:02:26Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "avmt",
+    "url": "https://github.com/initrc",
+    "author": "initrc",
+    "updated": "2013-10-19T07:54:46Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "xxo",
+    "url": "https://github.com/mynery",
+    "author": "mynery",
+    "updated": "2013-10-16T14:32:01Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rustlearn",
+    "url": "https://github.com/mttr",
+    "author": "mttr",
+    "updated": "2013-10-11T15:54:04Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-http",
+    "url": "https://github.com/GimXu",
+    "author": "GimXu",
+    "updated": "2013-10-11T08:22:40Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "datastructures.rs",
+    "url": "https://github.com/tehgeekmeister",
+    "author": "tehgeekmeister",
+    "updated": "2013-10-13T02:43:20Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-opengl",
+    "url": "https://github.com/evanw",
+    "author": "evanw",
+    "updated": "2013-10-12T23:45:43Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-learn",
+    "url": "https://github.com/shell0dh",
+    "author": "shell0dh",
+    "updated": "2013-10-13T02:01:00Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "yolo-sansa",
+    "url": "https://github.com/vogon",
+    "author": "vogon",
+    "updated": "2013-10-19T19:27:09Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "sharin",
+    "url": "https://github.com/rail44",
+    "author": "rail44",
+    "updated": "2013-10-19T16:49:14Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "linalg",
+    "url": "https://github.com/Agrajag-Petunia",
+    "author": "Agrajag-Petunia",
+    "updated": "2013-10-19T22:57:08Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "hello-world",
+    "url": "https://github.com/malimukesh",
+    "author": "malimukesh",
+    "updated": "2013-10-19T23:46:27Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-glib",
+    "url": "https://github.com/cadencemarseille",
+    "author": "cadencemarseille",
+    "updated": "2013-10-19T12:51:38Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "test-resources",
+    "url": "https://github.com/Jirachi",
+    "author": "Jirachi",
+    "updated": "2013-10-20T21:39:41Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rustpractice",
+    "url": "https://github.com/saurabhbhatia",
+    "author": "saurabhbhatia",
+    "updated": "2013-10-21T08:13:53Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-nspr",
+    "url": "https://github.com/mletterle",
+    "author": "mletterle",
+    "updated": "2013-11-17T18:56:52Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "vzwtab_initramfs_GB",
+    "url": "https://github.com/KhasMek",
+    "author": "KhasMek",
+    "updated": "2013-11-06T17:30:32Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "codewars-warrior",
+    "url": "https://github.com/lithium",
+    "author": "lithium",
+    "updated": "2013-11-11T00:56:39Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "dungeons-of-rust-old",
+    "url": "https://github.com/yuriks",
+    "author": "yuriks",
+    "updated": "2013-11-10T00:33:21Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "cs4414-zhtta",
+    "url": "https://github.com/MisterAbc",
+    "author": "MisterAbc",
+    "updated": "2013-11-11T18:35:45Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "around-zero",
+    "url": "https://github.com/stepancheg",
+    "author": "stepancheg",
+    "updated": "2013-11-14T14:18:32Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "libtrees",
+    "url": "https://github.com/berleon",
+    "author": "berleon",
+    "updated": "2013-11-14T22:15:19Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "depviz-rs",
+    "url": "https://github.com/KokaKiwi",
+    "author": "KokaKiwi",
+    "updated": "2013-11-25T12:00:34Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-semver",
+    "url": "https://github.com/erickt",
+    "author": "erickt",
+    "updated": "2013-11-26T11:53:25Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "totient",
+    "url": "https://github.com/cmr",
+    "author": "cmr",
+    "updated": "2013-09-14T02:38:00Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "wherehome",
+    "url": "https://github.com/kenlist",
+    "author": "kenlist",
+    "updated": "2013-09-15T03:30:12Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rv6",
+    "url": "https://github.com/mahrz",
+    "author": "mahrz",
+    "updated": "2013-09-16T20:48:49Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "OffenWorkWithThem",
+    "url": "https://github.com/charmRoshan",
+    "author": "charmRoshan",
+    "updated": "2013-07-24T06:06:37Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-quickcheck",
+    "url": "https://github.com/dbp",
+    "author": "dbp",
+    "updated": "2013-07-29T01:20:34Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-keccak",
+    "url": "https://github.com/MarkJr94",
+    "author": "MarkJr94",
+    "updated": "2013-08-27T05:51:09Z",
+    "forks": 1,
+    "stars": 0
+  },
+  {
+    "name": "krust",
+    "url": "https://github.com/talchas",
+    "author": "talchas",
+    "updated": "2013-09-17T17:58:32Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "SimpleGL",
+    "url": "https://github.com/MaikKlein",
+    "author": "MaikKlein",
+    "updated": "2013-09-03T13:59:22Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust_pratice",
+    "url": "https://github.com/aoqfonseca",
+    "author": "aoqfonseca",
+    "updated": "2013-08-27T21:33:48Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "socket.rust",
+    "url": "https://github.com/jaredwy",
+    "author": "jaredwy",
+    "updated": "2013-08-11T10:58:11Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "repro",
+    "url": "https://github.com/Atte",
+    "author": "Atte",
+    "updated": "2013-09-08T06:50:29Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-tcltk",
+    "url": "https://github.com/brandon-m-skinner",
+    "author": "brandon-m-skinner",
+    "updated": "2013-09-10T02:55:19Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "hellomoon",
+    "url": "https://github.com/iansharkey",
+    "author": "iansharkey",
+    "updated": "2013-04-24T00:51:21Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "Map",
+    "url": "https://github.com/zhaojing",
+    "author": "zhaojing",
+    "updated": "2013-08-22T06:46:55Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-working",
+    "url": "https://github.com/DaGenix",
+    "author": "DaGenix",
+    "updated": "2013-08-30T03:26:07Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "ProjectEuler",
+    "url": "https://github.com/Azdle",
+    "author": "Azdle",
+    "updated": "2013-06-14T21:03:59Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "testrepo",
+    "url": "https://github.com/korenchkin",
+    "author": "korenchkin",
+    "updated": "2013-07-10T13:11:02Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-koans",
+    "url": "https://github.com/AutomatedTester",
+    "author": "AutomatedTester",
+    "updated": "2013-07-08T19:58:45Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "strtokenizer.rs",
+    "url": "https://github.com/JeremyLetang",
+    "author": "JeremyLetang",
+    "updated": "2013-07-09T17:52:24Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "Butterfly",
+    "url": "https://github.com/Reboare",
+    "author": "Reboare",
+    "updated": "2013-07-07T19:23:18Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-experiments",
+    "url": "https://github.com/Reboare",
+    "author": "Reboare",
+    "updated": "2013-06-24T16:30:41Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-datastructures",
+    "url": "https://github.com/DanielWaterworth",
+    "author": "DanielWaterworth",
+    "updated": "2013-09-03T07:49:49Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rustis",
+    "url": "https://github.com/ecoffey",
+    "author": "ecoffey",
+    "updated": "2013-12-02T22:30:47Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "ChiBianDongXi",
+    "url": "https://github.com/iFanBar",
+    "author": "iFanBar",
+    "updated": "2013-12-05T01:19:47Z",
+    "forks": 3,
+    "stars": 0
+  },
+  {
+    "name": "kern-new",
+    "url": "https://github.com/ldunn",
+    "author": "ldunn",
+    "updated": "2013-12-05T09:14:13Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-simple-pulse",
+    "url": "https://github.com/awidegreen",
+    "author": "awidegreen",
+    "updated": "2013-11-30T19:05:17Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "learning-rust",
+    "url": "https://github.com/ihmccreery",
+    "author": "ihmccreery",
+    "updated": "2013-11-30T15:21:27Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "uuid.rs",
+    "url": "https://github.com/jensnockert",
+    "author": "jensnockert",
+    "updated": "2013-11-28T08:25:09Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-mysql",
+    "url": "https://github.com/nutsi",
+    "author": "nutsi",
+    "updated": "2013-11-28T08:58:57Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "linalg",
+    "url": "https://github.com/cmr",
+    "author": "cmr",
+    "updated": "2013-11-29T15:28:43Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "hangman",
+    "url": "https://github.com/phillipw",
+    "author": "phillipw",
+    "updated": "2013-12-01T01:59:56Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "brainfuck-rs",
+    "url": "https://github.com/KokaKiwi",
+    "author": "KokaKiwi",
+    "updated": "2013-12-01T01:43:46Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rgb",
+    "url": "https://github.com/emillon",
+    "author": "emillon",
+    "updated": "2013-12-06T22:36:59Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "parallelmst",
+    "url": "https://github.com/bt3ze",
+    "author": "bt3ze",
+    "updated": "2013-12-06T21:18:54Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "cs4414-ps1",
+    "url": "https://github.com/MisterAbc",
+    "author": "MisterAbc",
+    "updated": "2013-12-06T19:39:12Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "HGUtils-OpenGL-rs",
+    "url": "https://github.com/HeroesGrave",
+    "author": "HeroesGrave",
+    "updated": "2013-12-06T23:48:18Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rdsp",
+    "url": "https://github.com/csherratt",
+    "author": "csherratt",
+    "updated": "2013-12-06T18:22:42Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "hulk",
+    "url": "https://github.com/hugoduncan",
+    "author": "hugoduncan",
+    "updated": "2013-12-06T13:16:16Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "saf",
+    "url": "https://github.com/safiire",
+    "author": "safiire",
+    "updated": "2013-12-08T05:44:20Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "knob",
+    "url": "https://github.com/skade",
+    "author": "skade",
+    "updated": "2013-11-29T17:46:09Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rusty",
+    "url": "https://github.com/mosesn",
+    "author": "mosesn",
+    "updated": "2013-11-29T18:49:04Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "seam",
+    "url": "https://github.com/cyndis",
+    "author": "cyndis",
+    "updated": "2013-12-06T01:48:44Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "Ticket",
+    "url": "https://github.com/kitycat",
+    "author": "kitycat",
+    "updated": "2013-12-07T02:36:52Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-raytracer",
+    "url": "https://github.com/iamkevinmcvey",
+    "author": "iamkevinmcvey",
+    "updated": "2013-12-07T16:49:50Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "cs4414-ps4",
+    "url": "https://github.com/wbkostan",
+    "author": "wbkostan",
+    "updated": "2013-12-08T03:32:45Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "nbt.rs",
+    "url": "https://github.com/eminence",
+    "author": "eminence",
+    "updated": "2013-12-09T04:30:49Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-egl",
+    "url": "https://github.com/webconvforge",
+    "author": "webconvforge",
+    "updated": "2013-12-09T02:09:32Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-calculator",
+    "url": "https://github.com/stijnh",
+    "author": "stijnh",
+    "updated": "2013-12-10T03:09:39Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rustic-state",
+    "url": "https://github.com/dradtke",
+    "author": "dradtke",
+    "updated": "2013-12-10T02:39:11Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-file-example",
+    "url": "https://github.com/pirapira",
+    "author": "pirapira",
+    "updated": "2013-12-09T13:09:52Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "quick_check.rs",
+    "url": "https://github.com/jakub-",
+    "author": "jakub-",
+    "updated": "2013-12-09T21:31:56Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "games-rust",
+    "url": "https://github.com/pnkfelix",
+    "author": "pnkfelix",
+    "updated": "2013-12-12T17:20:39Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "Waypoint",
+    "url": "https://github.com/iosdeve",
+    "author": "iosdeve",
+    "updated": "2013-12-13T08:26:46Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "Rust-Everywhere",
+    "url": "https://github.com/yl9jv",
+    "author": "yl9jv",
+    "updated": "2013-12-12T06:44:16Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "highlow",
+    "url": "https://github.com/grahamking",
+    "author": "grahamking",
+    "updated": "2013-12-12T10:35:04Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "marauder",
+    "url": "https://github.com/ozkriff",
+    "author": "ozkriff",
+    "updated": "2013-12-12T11:50:08Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-mater",
+    "url": "https://github.com/xando",
+    "author": "xando",
+    "updated": "2013-12-11T04:09:24Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "random-tests",
+    "url": "https://github.com/huonw",
+    "author": "huonw",
+    "updated": "2013-12-11T03:27:39Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rusty-math",
+    "url": "https://github.com/burtonageo",
+    "author": "burtonageo",
+    "updated": "2013-12-10T09:20:43Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "pyrite",
+    "url": "https://github.com/Ogeon",
+    "author": "Ogeon",
+    "updated": "2013-12-13T15:03:45Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-ffmpeg",
+    "url": "https://github.com/mewlips",
+    "author": "mewlips",
+    "updated": "2013-12-13T09:33:39Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "lmath-rs",
+    "url": "https://github.com/erickt",
+    "author": "erickt",
+    "updated": "2013-12-14T02:25:06Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "cs4414-ps2",
+    "url": "https://github.com/xinzhuo",
+    "author": "xinzhuo",
+    "updated": "2013-12-16T02:20:39Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "cs4414-ps1",
+    "url": "https://github.com/xinzhuo",
+    "author": "xinzhuo",
+    "updated": "2013-12-16T02:21:21Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rs-persistent-datastructures",
+    "url": "https://github.com/michaelwoerister",
+    "author": "michaelwoerister",
+    "updated": "2013-12-16T14:10:35Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "gfgfgfgf",
+    "url": "https://github.com/wangwei2427",
+    "author": "wangwei2427",
+    "updated": "2013-12-15T13:42:02Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "xml-parser",
+    "url": "https://github.com/DanielFath",
+    "author": "DanielFath",
+    "updated": "2013-12-15T14:43:46Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "OurMaps",
+    "url": "https://github.com/junyao",
+    "author": "junyao",
+    "updated": "2013-12-15T03:20:55Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-re",
+    "url": "https://github.com/R-R-",
+    "author": "R-R-",
+    "updated": "2013-12-15T03:45:47Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-physics",
+    "url": "https://github.com/bvssvni",
+    "author": "bvssvni",
+    "updated": "2013-12-17T00:31:02Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "arc-btree-rs",
+    "url": "https://github.com/csherratt",
+    "author": "csherratt",
+    "updated": "2013-12-17T06:41:37Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-papi",
+    "url": "https://github.com/eholk",
+    "author": "eholk",
+    "updated": "2013-12-17T17:03:28Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "BlendMIUI-ARC-ramdisk",
+    "url": "https://github.com/JasonStein",
+    "author": "JasonStein",
+    "updated": "2013-12-17T15:16:13Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "grep.rs",
+    "url": "https://github.com/jakub-",
+    "author": "jakub-",
+    "updated": "2013-12-17T16:30:14Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "Baidu-Map-SDK-iOS",
+    "url": "https://github.com/jcccn",
+    "author": "jcccn",
+    "updated": "2013-12-18T12:51:44Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "merry-fxmas-rust",
+    "url": "https://github.com/FranklinChen",
+    "author": "FranklinChen",
+    "updated": "2013-12-18T12:21:10Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-statsd",
+    "url": "https://github.com/boredomist",
+    "author": "boredomist",
+    "updated": "2013-12-18T06:48:42Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "doc_builder",
+    "url": "https://github.com/cmr",
+    "author": "cmr",
+    "updated": "2013-12-18T01:19:09Z",
+    "forks": 1,
+    "stars": 0
+  },
+  {
+    "name": "rust-index",
+    "url": "https://github.com/bvssvni",
+    "author": "bvssvni",
+    "updated": "2013-12-19T00:15:44Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "rust-portaudio",
+    "url": "https://github.com/JeremyLetang",
+    "author": "JeremyLetang",
+    "updated": "2013-12-19T16:38:12Z",
+    "forks": 1,
+    "stars": 0
+  },
+  {
+    "name": "rust-sndfile",
+    "url": "https://github.com/JeremyLetang",
+    "author": "JeremyLetang",
+    "updated": "2013-12-19T16:51:05Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "cmdparse",
+    "url": "https://github.com/rcatolino",
+    "author": "rcatolino",
+    "updated": "2013-12-18T19:51:34Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "ul",
+    "url": "https://github.com/thebreadcat",
+    "author": "thebreadcat",
+    "updated": "2013-12-18T18:17:48Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "comprsr",
+    "url": "https://github.com/honzasp",
+    "author": "honzasp",
+    "updated": "2013-12-19T03:26:24Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "yijia366",
+    "url": "https://github.com/ddssssdd",
+    "author": "ddssssdd",
+    "updated": "2013-12-19T02:48:03Z",
+    "forks": 2,
+    "stars": 0
+  },
+  {
+    "name": "rust-lua",
+    "url": "https://github.com/kballard",
+    "author": "kballard",
+    "updated": "2013-12-19T23:12:48Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "cs4414-ps1",
+    "url": "https://github.com/Jasdev",
+    "author": "Jasdev",
+    "updated": "2013-12-20T01:51:54Z",
+    "forks": 0,
+    "stars": 0
+  },
+  {
+    "name": "freeimage-rs",
+    "url": "https://github.com/h3r2tic",
+    "author": "h3r2tic",
+    "updated": "2013-12-20T03:01:53Z",
+    "forks": 0,
+    "stars": 0
+  }
+]
