@@ -14,8 +14,31 @@ var request = request.defaults({
 });
 
 var github_api = "https://api.github.com/search/repositories";
-var searchCriteria = "created:>2010-01-01 language:Rust";
+//var searchCriteria = "created:>2010-01-01 language:Rust";
+var searchCriteria = "rust created:>2010-01-01";
 var db = [];
+
+// Start searching from the first page.
+searchGithub(1);
+
+function searchGithub (page) {
+    // Can only get 100 items max per request.
+    // In the headers, there's a link attribute which lets you know
+    // where you are in the set of results.
+    var MAX_RESULTS = 100;
+
+    var query = {
+        q: searchCriteria,
+        per_page: MAX_RESULTS,
+        "page": page,
+    };
+
+    request({
+        method: 'GET',
+        uri: github_api,
+        "qs": query
+    }, processSearchResults);
+}
 
 function processSearchResults (err, response, body) {
     function getSimpleRepoAttributes (element) {
@@ -85,51 +108,31 @@ function processSearchResults (err, response, body) {
     }
 }
 
-function searchGithub (page) {
-    // Can only get 100 items max per request.
-    // In the headers, there's a link attribute which lets you know
-    // where you are in the set of results.
-    var MAX_RESULTS = 100;
-
-    var query = {
-        q: searchCriteria,
-        per_page: MAX_RESULTS,
-        "page": page,
-    };
-
-    request({
-        method: 'GET',
-        uri: github_api,
-        "qs": query
-    }, processSearchResults);
-}
-
 // Do stuff after all going through all of the search pages.
 function callbackNoMore() {
+    function write (fileName, data) {
+        fs.writeFile(fileName + ".json", JSON.stringify(data, null, 2),
+                function(err) {
+            if(err) {
+                console.log(err);
+            } else {
+                console.log(fileName + ".json file was saved!");
+            }
+        });
+    }
+
     var simple = [],
         complete = [];
 
+    var count = 0;
     for (var i = 0; i < db.length; ++i) {
         console.log(i);
         simple = simple.concat(db[i].simple);
         complete = complete.concat(db[i].complete);
+        count += simple.length;
     }
 
-    fs.writeFile("simple_repos.json", JSON.stringify(simple, null, 2), function(err) {
-        if(err) {
-            console.log(err);
-        } else {
-            console.log("simple_repos.json file was saved!");
-        }
-    });
-    fs.writeFile("complete_repos.json", JSON.stringify(complete, null, 2), function(err) {
-        if(err) {
-            console.log(err);
-        } else {
-            console.log("complete_repos.json file was saved!");
-        }
-    });
+    console.log(count);
+    // write("simple_repos2", simple);
+    write("complete_repos2", complete);
 }
-
-// Start searching from the first page.
-searchGithub(1);
